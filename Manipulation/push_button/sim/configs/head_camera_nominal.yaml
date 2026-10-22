@@ -1,0 +1,10 @@
+# Nominal simulation mount, not physical optical calibration.
+# Public geometry only; no device credentials or connection parameters.
+head_camera:
+  parent_body: torso_link
+  xyz: [0.0576235, 0.01753, 0.42987]
+  rpy: [0.0, 0.8307767239493009, 0.0]
+  width: 640
+  height: 480
+  fovy_deg: 42.6
+  name: head_camera

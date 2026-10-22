@@ -1,0 +1,56 @@
+{
+  "status": "CONCEPT_ONLY_ROBOT_INTERFACE_UNVERIFIED",
+  "units": "mm",
+  "layout": "left head, rails along robot X; top, outboard, bottom",
+  "rail": {
+    "length": 70.0,
+    "height": 14.0,
+    "max_width": 21.1455,
+    "neck_width": 15.5448,
+    "datum_width": 18.9992,
+    "datum_vertical_separation": 2.7432,
+    "top_to_lower_datum": 4.1656,
+    "slot_width": 5.334,
+    "slot_depth": 3.0988,
+    "slot_pitch": 10.0076,
+    "slot_count": 6,
+    "edge_break": 0.15,
+    "source": "sources/MIL_STD_1913.pdf, Figures 1 and 2; nominal mid-tolerance widths, minimum height clearance respected; full GD&T certification NOT claimed"
+  },
+  "carrier": {
+    "length": 70.0,
+    "inner_y": 6.0,
+    "inner_wall": 6.0,
+    "outer_y": 32.0,
+    "outer_wall": 4.0,
+    "half_height": 18.0,
+    "cross_wall": 4.0,
+    "rail_center_y": 19.0,
+    "fusion_overlap": 0.1
+  },
+  "adapter": {
+    "length": 90.0,
+    "height": 54.0,
+    "thickness": 6.0,
+    "corner_radius": 4.0,
+    "carrier_bolt_xz": [[-25,-10],[-25,10],[25,-10],[25,10]],
+    "clearance_diameter": 3.4,
+    "head_recess_diameter": 6.4,
+    "head_recess_depth": 3.2,
+    "nut_across_flats": 5.8,
+    "nut_depth": 2.6,
+    "robot_holes": null,
+    "robot_contact_surface": null,
+    "robot_thread": "UNVERIFIED: user suspects M4",
+    "robot_screw_length": null
+  },
+  "preview": {
+    "translation_in_head_mesh_mm": [0,60,495],
+    "status": "ILLUSTRATIVE_PLACEMENT_ONLY_NO_REGISTERED_HOLE_DATUM"
+  },
+  "payload": {
+    "mass_kg": null,
+    "center_of_mass_mm": null,
+    "rated_load": null
+  }
+}

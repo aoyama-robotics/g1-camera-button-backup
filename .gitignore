@@ -1,0 +1,16 @@
+.env
+.env.*
+__pycache__/
+.venv/
+venv/
+*.pyc
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.pcd
+*.ply

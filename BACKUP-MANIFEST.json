@@ -1,0 +1,362 @@
+[
+  {
+    "Path": "Common/network/G1_WIRELESS_AOYAMA_DRAFT.md",
+    "Bytes": 2842,
+    "SHA256": "770983b62c2ae5b524ca7ac9617f49e4bf43fb1ebe432372cc8081b22e486876",
+    "SourceGitBlob": "104e2f95b813c1eaddce52c5f4dc12e7f3313198"
+  },
+  {
+    "Path": "Manipulation/push_button/camera_handoff.py",
+    "Bytes": 5424,
+    "SHA256": "93a11358122188ff57bb3575203151bcfedf98c817bd7d3ada5ea5d0ae76d9c4",
+    "SourceGitBlob": "9dc0a895b4726f9dd1e61ad00ecec9c782eb04d8"
+  },
+  {
+    "Path": "Manipulation/push_button/sim/configs/head_camera_nominal.yaml",
+    "Bytes": 312,
+    "SHA256": "ac118e5178859214b7c92bc683cb03c817575640361bde28b7a039dc56e6161e",
+    "SourceGitBlob": "9912abd8c4aa8a40d7dc3f767343cde18dace441"
+  },
+  {
+    "Path": "Manipulation/push_button/sim/DUAL_CAMERA_RESULT.md",
+    "Bytes": 11860,
+    "SHA256": "dd13a5d95e0624e8e3cc57fe9fd4eba675aefe68761718815430d0fa837714ea",
+    "SourceGitBlob": "92fec16e67cc34f4d366cbaa5cc99599aade4a8b"
+  },
+  {
+    "Path": "Manipulation/push_button/sim/replay_dual_camera.py",
+    "Bytes": 1753,
+    "SHA256": "a649c0ad2070ee5e957dc7f955b20337c5090f3c9173dde034e4ffa7cb574501",
+    "SourceGitBlob": "21012519b93d0e17cec7034bfcfa25db8aeba9d7"
+  },
+  {
+    "Path": "Manipulation/push_button/sim/replay_vlm_trial.py",
+    "Bytes": 2168,
+    "SHA256": "546d0470a5e7ebe82270a055f89261b0b88ec67f1b485fe4b3b06d75182c5e33",
+    "SourceGitBlob": "ca6eb09cda4b1b50c47cbaa74bb99836a0ba8840"
+  },
+  {
+    "Path": "Manipulation/push_button/sim/RGB_ONLY_RESULT.md",
+    "Bytes": 5277,
+    "SHA256": "a40de785fe71b62c675d77b3474e0d97d958e3cf8c904cec86b3c3fd5bad4162",
+    "SourceGitBlob": "5926650e409976e143aa61beffcfecb6a3aa01c7"
+  },
+  {
+    "Path": "Manipulation/push_button/sim/run_dual_camera.py",
+    "Bytes": 17521,
+    "SHA256": "d2da2fd4fd6849e7635812a237773fa48c9354ca55b2753114697cf9c617668d",
+    "SourceGitBlob": "c62a468db57724c69a43d587ed57a0f19fd75903"
+  },
+  {
+    "Path": "Manipulation/push_button/sim/run_rgb_only.py",
+    "Bytes": 15537,
+    "SHA256": "33a4ddaf5a971514b66df53e002a29d5b5bf5930550590604a5f094439d3b39f",
+    "SourceGitBlob": "358291630a72d2c3ec6ebf84aa3ed762d754fcef"
+  },
+  {
+    "Path": "Manipulation/push_button/sim/run_vlm_closed_loop.py",
+    "Bytes": 12335,
+    "SHA256": "14a74f5ce60390d7b59a21d4ce3a71216a5423ccbd1627f6a606c0da10e584cb",
+    "SourceGitBlob": "55b752ee877e97386239529c29aa5835203a501e"
+  },
+  {
+    "Path": "Manipulation/push_button/sim/VLM_CLOSED_LOOP.md",
+    "Bytes": 5732,
+    "SHA256": "9a1c50b35246623194e7dad66cdb86f9d591d74bace49bfee42385cc1a5f6a8e",
+    "SourceGitBlob": "e489dc76bcaeb43de82c29ded6fc363548d98440"
+  },
+  {
+    "Path": "Manipulation/push_button/tests/test_camera_handoff.py",
+    "Bytes": 3513,
+    "SHA256": "c8b3aae64b627cd28d95c3a0e41f0498356820f268723f203a84ca775ce5b8d6",
+    "SourceGitBlob": "d1cd1c09fa094bbec17ae5ea9712d02119bacf95"
+  },
+  {
+    "Path": "Manipulation/push_button/tests/test_rgb_only.py",
+    "Bytes": 1247,
+    "SHA256": "7bf9acf8d0bbc49cc20b2a0d4102689fa24ca68ef0bd5b7de25b2c5ba0488f89",
+    "SourceGitBlob": "dd83b86fcf3f85ca4f9f1eee81eb765cf6ddec58"
+  },
+  {
+    "Path": "Manipulation/push_button/tests/test_vlm_closed_loop.py",
+    "Bytes": 2120,
+    "SHA256": "79a42d31c7cdc5a696f3b45bbba331a782dd7480ed6d05557ceff29aeb303506",
+    "SourceGitBlob": "cc1a494aee8b0a4866f9eb90036e3fd78413d084"
+  },
+  {
+    "Path": "Manipulation/push_button/vision.py",
+    "Bytes": 9071,
+    "SHA256": "0229ffc06b53a13c034807006c7b4f03e9e7e5632b47f5c6177e097ea4d1f6f9",
+    "SourceGitBlob": "70546adf066a82115720a6cc8b83424125bcf80e"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/camera_clamp_body.step",
+    "Bytes": 615304,
+    "SHA256": "4fc19b09919d04e58a66b0b17d9df3b4f9be51ecc5df87d770a4f1550c1bf074",
+    "SourceGitBlob": "207cf762d0e4356505cc6d1b90f8a125304312e0"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/camera_clamp_body.stl",
+    "Bytes": 345884,
+    "SHA256": "cc8278ce913188c54fb7eff80b370f3814013a9bcfb63eb7e4dd8f827ff40337",
+    "SourceGitBlob": "398de350136003507edd57e17e61c5a2adb055c0"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/camera_clamp_jaw.step",
+    "Bytes": 46610,
+    "SHA256": "8ab58ee64f21d03ef778af5e4a253a1ae12ea0c380eb75c2a2cd5d08afd44853",
+    "SourceGitBlob": "2e8a2f00b160a9f7acaf1f806776daa2a8ae9c6d"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/camera_clamp_jaw.stl",
+    "Bytes": 65484,
+    "SHA256": "25b23c72e4cb77986873a5e5ff5df057c89054466314eea0fce1b50e4211ad94",
+    "SourceGitBlob": "7b12e9117033650d1ef2d25ba87d1ef53e1c2284"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/ARCHIVE-NOTES.md",
+    "Bytes": 906,
+    "SHA256": "616de044b7357faa30a720c58910d8f6df282b072db39456a7adf29e5db94ffd",
+    "SourceGitBlob": "80826db3cd6bc00950bca8a3c331ebf043b706db"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/build_camera_attachment.ps1",
+    "Bytes": 479,
+    "SHA256": "73ff8181da1a168f8ee2115f8ac11fbd4c78fb51f1a61e6f6d1d7a8402723599",
+    "SourceGitBlob": "d2e4a32333a04c6faa12dbe6277159271c0e59eb"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/build_v1.ps1",
+    "Bytes": 434,
+    "SHA256": "67ab2336b8789d4c2db5d059f563f8fd15bab841d9b095473ea9d75a709be840",
+    "SourceGitBlob": "b1e95d6d3a73bfe39af8e47280c69caa9c9306b2"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/build_v2.ps1",
+    "Bytes": 1295,
+    "SHA256": "2fbffcbf91cd62d409902296655b52b169fc0f7abe82f9ffdfe4cfcd51a5b6df",
+    "SourceGitBlob": "8f6adb178821ca48fb19bb295a1204f906c938c6"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/build_v3.ps1",
+    "Bytes": 754,
+    "SHA256": "8f3a586e04c5d45453d89af9dafebbc31c19c962357e18533aeb49edb8204c4c",
+    "SourceGitBlob": "b99ee2abc5c9e9ac9cff085db8013e9bcbcc493e"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/build.ps1",
+    "Bytes": 434,
+    "SHA256": "939f4b29800c1d4937dbf9bebc221c21d87d9ecbf3b690bda30a016278074e3e",
+    "SourceGitBlob": "6f985558c2d3378f091d682b65a026eb6f0d3486"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/config/camera_attachment_v1.json",
+    "Bytes": 1262,
+    "SHA256": "eafa159cbfc0fd1fcc53257857e01dfda6fb3ff195e0451d925dea87b93dcefb",
+    "SourceGitBlob": "b365a8601acb256eee9c62b44b69a0724c234eda"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/config/measurement_request.json",
+    "Bytes": 1324,
+    "SHA256": "b15e8535a10cf87c3e2d1ada634309bac1652055eed970e9635fb73edac498fc",
+    "SourceGitBlob": "30a04a08735e5b2178011b7ce892b0663a2b7174"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/config/mount_v0.json",
+    "Bytes": 1558,
+    "SHA256": "e15c0f329b2afb56ae859c60ad28f0d8872e42fcb38b39759252275e009d5aca",
+    "SourceGitBlob": "ebe26abb5cd58fb3ffca8a83ce3dbce46cef4ff9"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/config/mount_v1.json",
+    "Bytes": 1139,
+    "SHA256": "e3e94134c82614302f19ef70be473fc57a32e4c0375fae70e4149624a7268dbe",
+    "SourceGitBlob": "ef2d4ac7c167ab16916050e7af36136e0b2047d4"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/config/structural_v2.json",
+    "Bytes": 2134,
+    "SHA256": "340dfacf5441484b22e925186c35abae44208a7f93d0c41f13fd3e4567dc89b2",
+    "SourceGitBlob": "fd72e9cbf1cf5f9017a36df5a03fb6b097b178bb"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/config/structural_v3.json",
+    "Bytes": 1754,
+    "SHA256": "aca96e418c4356f67dcf7af3a8fd96445362e01108486fc15785dddeea721664",
+    "SourceGitBlob": "e61f375422d6ec16cfacde11068fb977dd09c5be"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/MANIFEST.json",
+    "Bytes": 5504,
+    "SHA256": "a1b024b2b3fdd1042c4357bcbe46a5a3a827648f024cc4e9131f59687c1cc1da",
+    "SourceGitBlob": "a2198daadf16fbccdf4db12cf375f728c781ae45"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/README.md",
+    "Bytes": 11691,
+    "SHA256": "8ea0b855e00190fe18898cdb6d6122fc11a104baf7dfb82a404beec073d71d87",
+    "SourceGitBlob": "c3049785055c78760cedb42d2cdd3106cbb35092"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/build_camera_attachment.py",
+    "Bytes": 9082,
+    "SHA256": "b857bff8a47da5515ad0ba3a7cf10ba0b9fbc0e3f314faf091cf9f2138fd4470",
+    "SourceGitBlob": "986980f20c5d09b227e56d4d03128d0c3925f1d8"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/build_mount.py",
+    "Bytes": 7421,
+    "SHA256": "4757d48fa253c83225a4c3ffb2e9754df973c5f27dc0d2ca465eaca70a16924f",
+    "SourceGitBlob": "25824abef492de05f0320e9cd9fb83c7df75575e"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/build_structural_v2.py",
+    "Bytes": 4081,
+    "SHA256": "afd1026b8dde226815aed96f98a3f75554aca3c899172d4e1337c5f8b8b4fecf",
+    "SourceGitBlob": "c4715f9932b02583f4da8450b10c19b93c8e084c"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/build_v1.py",
+    "Bytes": 3833,
+    "SHA256": "2868850af5561882e972d1028717444d87aba696d68723f8d29072131ff43d98",
+    "SourceGitBlob": "775f51e61d596674728a9252679b43c206d1eeb7"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/build_v3.py",
+    "Bytes": 3719,
+    "SHA256": "f073bbf005316db1116e6dfbce5dbe21319644520d3e088d2326971b4e36c156",
+    "SourceGitBlob": "19a4a72eaffdea670808e8f16fe666e301c90d8d"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/cad_raster.py",
+    "Bytes": 2232,
+    "SHA256": "922be0cd8a1861d80aa43fe041d27834790b445103eb8c6aee5537e5a712d1d8",
+    "SourceGitBlob": "e913b3d7e653b684c0b6aa3ee66852a6f616badc"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/check_elasticity_v2.py",
+    "Bytes": 1540,
+    "SHA256": "144670a1c50ac41470ee0e778ee7d7e7f1a590b954d2a282bded8258733b3291",
+    "SourceGitBlob": "0c79b73cf54bebf1bac5dd7d99e5e7d6ae6855e4"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/fea_v2.py",
+    "Bytes": 9899,
+    "SHA256": "ccbb57fcad21f99d3c4c3fa2e68f36b1865fabf279a0d86fc701ecdef0577442",
+    "SourceGitBlob": "31ceb056a422d1d546af3f12cf66dea71776a782"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/finalize_camera_attachment.py",
+    "Bytes": 8944,
+    "SHA256": "09f330e2e163b9e9b5506a26e6f43c5c9ff6832e37a7b3862410d92cc32a2027",
+    "SourceGitBlob": "86461c7bd2fb4883f158b7762fa898a67cced826"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/finalize_v2.py",
+    "Bytes": 13763,
+    "SHA256": "b47982ab85eb1aceef4d677cfe09cb171623c04c45afa20ab996348d3b870ea2",
+    "SourceGitBlob": "98f655b5d94b1a97e31661ed650b611141b6b6e6"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/finalize_v3.py",
+    "Bytes": 6352,
+    "SHA256": "d13259bc19b5a89e11df29f552c608fadd55c2cf6724f2f55e1af3abc4c319c8",
+    "SourceGitBlob": "e02114a4a7a15d407cb4f5dc6bb0fb6f6f181fb8"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/inspect_brackets.py",
+    "Bytes": 1137,
+    "SHA256": "9d56db3a278487adbbb75911b2c38cc3a150eab1d6a416938d1f2af8f6e260eb",
+    "SourceGitBlob": "a5b859290692dbec9c696ae43a91753afaaa97b1"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/inspect_head.py",
+    "Bytes": 1011,
+    "SHA256": "749060ee3dc081beeec82c651156dbc044832a7dda7048fb0bc275ea5bbb66a1",
+    "SourceGitBlob": "89f2b7b07f3027d34278cf376c632da11d38a1bd"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/measure_official_seats.py",
+    "Bytes": 2687,
+    "SHA256": "c98b01ce34288a7486bc5b215893105e1b5075bdd916c70c4d2d6b3414d8b592",
+    "SourceGitBlob": "d6405e2039c8680ef7f2eeecef3891fc93fd0e3c"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/package_outputs.py",
+    "Bytes": 888,
+    "SHA256": "68e35ac9871f31852b2f73ac49ef287355844bc381b9fa1a157e62f5f2785122",
+    "SourceGitBlob": "eaa098877ed9003bf1d566b28f96e4fb1c33ea55"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/prepare_a1_trial.py",
+    "Bytes": 2366,
+    "SHA256": "d44cc1dfab86c7f8e0d53cb24ea4741dca929bd2f41e3f35e12bd8560030fbd4",
+    "SourceGitBlob": "fce55769790dbba593a540084ab902605b155551"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/render_review.py",
+    "Bytes": 6271,
+    "SHA256": "4b03bc856ab2c12385358e0e51cb140877064a1f97e0ef93603bfa85640ab547",
+    "SourceGitBlob": "885475649b7abd4a6c8e361c5e52cfa685a77ff7"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/render_v1.py",
+    "Bytes": 2601,
+    "SHA256": "745d52e9ecab7b20fc4b8a60e91c0deb5579f6b9911e2e28a583033f5c202806",
+    "SourceGitBlob": "165ca8782e256088e2971515e30c9545706e81ab"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/run_fea_v2.py",
+    "Bytes": 728,
+    "SHA256": "8ad6eeac8862965684dc0e2da3f375dac1187d372da309b3e2feecbd5e5c4495",
+    "SourceGitBlob": "4f42121a0eac0b0f0a7673cdb53ebc84dd022700"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/select_v2.py",
+    "Bytes": 3581,
+    "SHA256": "1916c0391863b41aea985915e98c8df3aa4911e6a84d7b48ab0fc22d88955767",
+    "SourceGitBlob": "30e47b52f9304d5a8a9ae10ebf7ff736301e4805"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/scripts/validate_a1_trial.py",
+    "Bytes": 5129,
+    "SHA256": "1985fb9a4a550717a115b15fb94653643130e6e686a631db9901bf65d354ae7e",
+    "SourceGitBlob": "12bdf8d117bd78a5eda624ce2d69a297ffb97792"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/sources/provenance.json",
+    "Bytes": 2765,
+    "SHA256": "01918200cec016b6cc139b9b3b29d75f0e0735857ba57f9cfefc1e7ef8b6e3bc",
+    "SourceGitBlob": "1cd8b2515d817203b3973150cf6680e8d0254da4"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/sources/ros_commit.json",
+    "Bytes": 9761,
+    "SHA256": "967ac1a5a2a2e1583880f5b147936ea801b2b9e6e0da0b275d5715bc1199b0fa",
+    "SourceGitBlob": "eb4ceb52160ccf517750ef2c9abf97732963a71f"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/design-source/sources/xr_README.md",
+    "Bytes": 29070,
+    "SHA256": "74584a00b61204e7eefe3a60de549fa55f918dda52491c4e3b27e39ae7d9fd3c",
+    "SourceGitBlob": "87a8c390415797c1676e4d7194dd004489e25709"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/G1_head_tri_rail_monolithic_v3.step",
+    "Bytes": 1596451,
+    "SHA256": "bb99db26b2eb2ba4473dcd7899ef54792b81e37a0da3141bff947899ee521b64",
+    "SourceGitBlob": "e95c3d1f5728e4921d3c3088b55b3ff46fe2f8de"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/G1_head_tri_rail_monolithic_v3.stl",
+    "Bytes": 136684,
+    "SHA256": "ca04534a33b72d0f32f765e0f4539eb2d5f87b942a6ecb6000b70dd43d4ee7f7",
+    "SourceGitBlob": "5d1c73ab40bb25e0415fd0e0b263b405403ad6e0"
+  },
+  {
+    "Path": "Perception/real/camera_mount/g1_left_head/README.md",
+    "Bytes": 2650,
+    "SHA256": "c7f1f3a1aef063abab7734730398b3b970416b8c9c1c61a098d8aa19a333e6c8",
+    "SourceGitBlob": "fb19f44c1aaddedd3340a058c12161285bdcdc8f"
+  }
+]

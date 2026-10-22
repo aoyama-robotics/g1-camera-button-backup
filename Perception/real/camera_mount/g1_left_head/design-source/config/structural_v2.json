@@ -1,0 +1,33 @@
+{
+  "status": "COMPARATIVE_FEA_ASSUMPTIONS_NOT_A_LOAD_RATING",
+  "forward_shift_mm": 20.0,
+  "user_accepted_payload_kg": 0.5,
+  "acceleration_m_s2": 29.43,
+  "acceleration_note": "3 g equivalent static comparison envelope, chosen for screening; not measured G1 motion or impact",
+  "elastic_modulus_MPa": 2000.0,
+  "poisson_ratio": 0.35,
+  "density_kg_m3": 1270.0,
+  "material_note": "Generic isotropic solid polymer comparison assumption. No measured printed-material qualification.",
+  "support_patch_radius_mm": 6.0,
+  "support_note": "Both nominal flat top seat patches z=0 around the two M4 axes fully clamped; ideal screw/head interface, not actual preload/contact",
+  "joint_note": "Carrier-to-bracket shared face perfectly bonded in primary whole-assembly comparison; real M3 joint compliance and slip excluded",
+  "payload_reference_local_mm": [25.0, 76.0, 40.0],
+  "payload_reference_note": "Relative to rail longitudinal center and bracket coordinate; +X front. Actual camera lens/COM unknown. Identical load eccentricity relative to carrier across candidates.",
+  "load_cases": {
+    "down": [0, 0, -1],
+    "outward": [0, 1, 0],
+    "forward": [1, 0, 0],
+    "diagonal": [0.5773502691896258, 0.5773502691896258, -0.5773502691896258]
+  },
+  "mesh_levels_mm": [5.0, 3.5],
+  "selection_policy": "Select lowest-volume forward candidate with at least 30% reduction of worst displacement vs forward_plain and no direction worse; if none, retain best Pareto option with explicit limitations. Verify selected and forward_plain at finer mesh.",
+  "candidates": [
+    {"id": "baseline_v1", "shift": 0, "wall": 6, "rib_width": 0, "rib_depth": 0, "bulkhead": 0},
+    {"id": "forward_plain", "shift": 20, "wall": 6, "rib_width": 0, "rib_depth": 0, "bulkhead": 0},
+    {"id": "forward_light", "shift": 20, "wall": 6, "rib_width": 4, "rib_depth": 8, "bulkhead": 3},
+    {"id": "forward_balanced", "shift": 20, "wall": 8, "rib_width": 5, "rib_depth": 12, "bulkhead": 4},
+    {"id": "forward_stiff", "shift": 20, "wall": 10, "rib_width": 6, "rib_depth": 16, "bulkhead": 5}
+  ],
+  "physical_ready": false,
+  "camera_FOV_verified": false
+}

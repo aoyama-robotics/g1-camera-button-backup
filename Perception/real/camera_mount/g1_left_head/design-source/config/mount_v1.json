@@ -1,0 +1,23 @@
+{
+  "units": "mm",
+  "status": "USER_DIMENSIONED_FIT_PROTOTYPE",
+  "hole_pitch": 53.0,
+  "hole_pitch_source": "User head-plate tracing and subsequent clarification: use the two holes on the 53 mm edge, screws inserted from below",
+  "hole_axis": [0, 0, 1],
+  "hole_to_upright_inner_face": 20.0,
+  "offset_source": "User proposed 20 mm clearance; interpreted as hole axis to upright INNER face, provisional, not precision measured",
+  "flange_length": 70.0,
+  "flange_inboard_margin": 9.0,
+  "flange_thickness": 5.0,
+  "upright_thickness": 6.0,
+  "upright_top_z": 55.0,
+  "robot_clearance_diameter": 4.5,
+  "robot_thread_status": "M4 assumed from original user message, not yet measured",
+  "carrier_translation": [0, 20, 30],
+  "carrier_source": "output/v0/tri_rail_carrier_CONCEPT.step",
+  "contact_plane_z": 0.0,
+  "contact_geometry_status": "Coplanar flat seats assumed; local shell and recess geometry unverified",
+  "payload_rating": null,
+  "physical_ready": false,
+  "coordinate_note": "X along the 53 mm pair, Y outward, Z upward; origin midway between screw axes on nominal contact plane. Not registered to official head mesh."
+}

@@ -1,0 +1,18 @@
+{
+  "SourceRepository": "https://github.com/airlayout/G1_Hackason",
+  "LocalPreparedCommit": "b197194a1ee5903fadf2b61a5369b4afb719f00a",
+  "CADCommit": "161090e72e86a324802615fd9594d1cf16f65668",
+  "UpstreamSnapshot": "33b309665aa513c84cd22e6710753faf889f8cbe",
+  "ParentHistoryIncluded": false,
+  "SourceFiles": 60,
+  "Bytes": 3075308.0,
+  "Excluded": [
+    "All unrelated upstream history",
+    "Venue/private images and videos",
+    "Point clouds and maps",
+    "Weights and checkpoints",
+    "Dependency environments and downloaded packages",
+    "Authentication and printer/network connection records"
+  ],
+  "ProjectCodeExecuted": false
+}

@@ -1,0 +1,75 @@
+{
+  "retrieved": "2026-09-26",
+  "ros_commit": "ccfc6fd8430a17ba3dacef9a1e2faf64ff3b0aee",
+  "xr_tree": "817fb00c63cde15e5f24a0f8fa08e1e33ed89d3b",
+  "sources": [
+    {
+      "file": "sources\\head_link.STL",
+      "url": "https://raw.githubusercontent.com/unitreerobotics/unitree_ros/ccfc6fd8430a17ba3dacef9a1e2faf64ff3b0aee/robots/g1_description/meshes/head_link.STL",
+      "sha256": "005fb67fbd3eff94aa8bf4a6e83238174e9f91b6721f7111594322f223724411",
+      "bytes": 932784
+    },
+    {
+      "file": "sources\\g1_29dof.urdf",
+      "url": "https://raw.githubusercontent.com/unitreerobotics/unitree_ros/ccfc6fd8430a17ba3dacef9a1e2faf64ff3b0aee/robots/g1_description/g1_29dof.urdf",
+      "sha256": "e1dc89366bf96aa33ba4ef211884f6d81320ddd2ac6f8b1ad82986e64008be31",
+      "bytes": 35180
+    },
+    {
+      "file": "sources\\Device.md",
+      "url": "https://github.com/unitreerobotics/xr_teleoperate/blob/main/Device.md",
+      "sha256": "9f44bf7bb07e1be6974fac1cd56e697b1281552bba760aa7c4a35ef7047ce3f3",
+      "bytes": 16489
+    },
+    {
+      "file": "sources\\classic_head_parts.zip",
+      "url": "https://oss-global-cdn.unitree.com/static/477103c571dc46f99ec6e0b57b3b3be6.zip",
+      "sha256": "ce2ecf026bf8b399c60fdd8f35919aa0d786d7bcd0b02d953dcbcef9cdfb5a53",
+      "bytes": 491620
+    },
+    {
+      "file": "sources\\renewed_head_parts.zip",
+      "url": "https://oss-global-cdn.unitree.com/static/950f53b95d5943589e278241b59c86ff.zip",
+      "sha256": "b9077fa7d95d1562a6ac938fbfd504fbbb53fe172407a2c8ffdaa70646133043",
+      "bytes": 480749
+    },
+    {
+      "file": "sources\\MIL_STD_1913.pdf",
+      "url": "https://combatrifle.net/pdfs/picatinny_1913_specs.pdf",
+      "sha256": "75fba1164b1288a93563bb3a05b07afa974507d9ea61a359544ce42c9dc2fdc2",
+      "bytes": 271735
+    }
+  ],
+  "head_mesh_measurement": {
+    "unit_conversion": "URDF metres to CAD mm: multiply by 1000",
+    "bounds_mm": [
+      [
+        -66.35621935129166,
+        -77.77460664510727,
+        324.7958719730377
+      ],
+      [
+        73.98402690887451,
+        77.81664282083511,
+        530.5725932121277
+      ]
+    ],
+    "extent_mm": [
+      140.34024626016617,
+      155.59124946594238,
+      205.77672123908997
+    ],
+    "scope": "entire supplied head_link including neck skirt; NOT crown-only dimensions"
+  },
+  "official_camera_bracket_holes": {
+    "diameter_mm": 4.5,
+    "classic_transverse_pitch_mm": 98.0,
+    "renewed_transverse_pitch_mm": 88.0,
+    "axis_in_STEP": [
+      -0.040057173190701366,
+      0,
+      0.9991973893460542
+    ],
+    "warning": "Left/right camera bracket pair; NOT two holes on the left head side. STEP and head STL coordinate systems not registered."
+  }
+}
