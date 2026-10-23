@@ -1,0 +1,27 @@
+{
+  "historical_records_only": true,
+  "current_experiment_stopped": true,
+  "archive_work_robot_operations": 0,
+  "fifteen_degree_reference": {
+    "Completed": true,
+    "Sent": 516,
+    "MeasuredPeakDeg": -12.844391007809712,
+    "MaxSampledTrackingErrorDeg": 2.4922874950387213,
+    "duplicate_copies_not_independent_successes": true
+  },
+  "last_bottle_attempt": {
+    "motor_commands_sent": 0,
+    "ai_release_performed": false,
+    "result": "IK endpoints found; no supported complete path from current start; model contact does not prove physical collision"
+  },
+  "branch_continuity_candidate": {
+    "offline_only": true,
+    "duration_s": 78.7345,
+    "hardware_validated": false
+  },
+  "camera_saved_status": {
+    "stale": true,
+    "ssh_exit": 255,
+    "running_flag_not_current_liveness_evidence": true
+  }
+}

@@ -1,0 +1,1866 @@
+[
+  {
+    "path": "after_aborted_first_test.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "after_second_trial.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "arm_action_capabilities_readonly.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "arm_capabilities_cdds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "baseline_cdds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "baseline_summary.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "battery_restart_state.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/ankle5_readonly_1049/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/ankle5_readonly_1049/diagnosis.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/ankle5_readonly_1049/samples.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/before_continuous1059/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/before_continuous1059/target_ik_candidate.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/before_continuous1059/touch_generation_report.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/before_continuous1059/touch_ik_candidates.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/cad_sources/cad_environment_versions.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/cad_sources/G1_STEP_assembly_placements.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/cad_sources/G1_STEP_products.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/cad_sources/G1_STEP_provenance.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/cad_sources/G1_STEP_structure.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/cad_sources/ocp/findings.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/cad_sources/ocp/geometry.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/cad_sources/official_quaternion_comparison.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/camera_after_restart_1231/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/camera_frame_candidates/_d435.urdf.xacro",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/camera_frame_candidates/_d435i.urdf.xacro",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/camera_frame_candidates/candidates.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/contact_diagnostic_20261021/contact/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/contact_diagnostic_20261021/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/contact_diagnostic_20261021/image_geometry_audit.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/contact_diagnostic_20261021/independent_fk_and_hand_depth.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/contact_diagnostic_20261021/multi_landmark_conclusion.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/contact_diagnostic_20261021/multi_landmark_projection.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/contact_diagnostic_20261021/short_contact_analysis.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/contact_diagnostic_20261021/unobscured/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/contact_unobscured_20261021_163709/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/current_kanji_contact_1020/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/current_received_1853/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/g1_29dof_rev_1_0.urdf",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/g1_local_20261021T123000Z/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/kanji_contact_20261021/CANCELLED_BATTERY.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/kanji_contact_20261021/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/kanji_precontact_20261021_163710/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/kanji_precontact_20261021_163710/target_observation.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/local_correction_config.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/local_correction_evaluation.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/model_coordinate_diagnosis.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/motion_baseline_20261021/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/continuation_current_state.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/exact_mesh_distance.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/exact_mesh_transforms.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/fresh_separation_leadin_analysis.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/increment_3mm_candidate.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/passive_outward_clearance.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/position_only_refinement.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/recovery_plan_offline.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/target_ik_candidate.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/three_parts_manifest.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/touch_generation_report.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/touch_ik_candidates.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/touch_part_1_CANDIDATE.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/touch_part_2_CANDIDATE.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/moved_stream1012/touch_part_3_CANDIDATE.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/official_g1_model_README.md",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/onboard_camera_config_audit.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/photo_only_20261021T123758Z/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/photo_only_20261021T124255Z/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/point1_20261021_160025/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/point1_20261021_160025/joint_samples.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/point1_20261021_160025/precontact_videohub_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/point1_20261021_160025/provisional_correspondence.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/point1_20261021_160025/unobscured/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/point2_20261021_162249/correspondence.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/point2_20261021_162249/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/point2_20261021_162249/joint_samples.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/point2_precontact_20261021_151908/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/point2_precontact_20261021_151908/target_observation.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/port5556_20261021_174343/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/post_camera_precontact_20261021_165518/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/post_camera_precontact_20261021_165518/target_observation.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/post_camera_restart_20261021/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/post_restart_20261021_143535/bottle_depth_observation.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/post_restart_20261021_143535/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot1052/camera/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot1052/camera/stream_metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot1052/fresh_leadin_plan.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot1052/target_ik_candidate.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot1052/touch_generation_report.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot1052/touch_ik_candidates.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot1052/touch_trajectory_CANDIDATE.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot_depth_20261021_165221/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot_kanji_20261021/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot_kanji_20261021/videohub_dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot_kanji_20261021/videohub_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot_rgb_depth_20261021_175218/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot_rgb_depth_20261021_175218/kanji_target_observation.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot_rgb_depth_20261021_175218/rgb_freshness.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot_rgb_depth_20261021_183403/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/reboot_rgb_depth_20261021_183403/rgb_freshness.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/recovery0916_20261021/capture_reason.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/recovery0916_20261021/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/recovery0916_precontact_20261021_171848/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/recovery0916_precontact_20261021_171848/target_observation.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/resting_photo_20261021/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/resting_photo_20261021/resting_posture_diagnosis.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/rubber_hand_geometry_audit.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/scene_refresh1724_20261021/dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/scene_refresh_contact_20261021_172741/local_correction_config.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/scene_refresh_contact_20261021_172741/local_correction_evaluation.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/scene_refresh_contact_20261021_172741/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/scene_refresh_contact_20261021_172741/numeric_motion_output.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/scene_refresh_contact_20261021_172741/offline_ik_candidate.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/scene_refresh_contact_20261021_172741/proposed_right_arm_trajectory_NOT_FOR_EXECUTION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/scene_refresh_precontact_20261021_172405/metadata.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/scene_refresh_precontact_20261021_172405/provenance.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/scene_refresh_precontact_20261021_172405/target_observation.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/teach_replay_offline_assessment.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/two_point_translation_analysis.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/two_point_translation_rev1.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/videohub_dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/videohub_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "bottle_camera_discovery/videohub_result_pre_calibration.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "cdds_readonly.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_afterrelease_executor/OFFLINE_VALIDATION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_afterrelease_executor/result_summary.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_afterrelease_executor/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_postreboot_executor/OFFLINE_VALIDATION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_postreboot_executor/result_summary.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_postreboot_executor/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/history/pitch_only_before_roll10/PITCH_SCOPE.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/IMU_BOUNDARY_TESTS.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/IMU_EFFECTIVE_SCOPE.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/INACTIVE_WATCHDOG_PROPOSAL.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/OFFLINE_VALIDATION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/PITCH_BOUNDARY_TESTS.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/PITCH_SCOPE.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/result_summary.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/SAVED_TIMING_REVIEW.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_touch_executor/OFFLINE_VALIDATION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_touch_executor/result_summary.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "continuous_touch_executor/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "controller_readonly_cdds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "damping_check_readonly.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "ethernet63_before.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "fifteen_degree_reference/fifteen_degree_reference_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "fifteen_degree_reference/result_summary.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "fifteen_degree_reference/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "fsm_raw_cdds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "fsm_raw_readonly.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/camera_preview_status.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/CANDIDATE_SELECTION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/DDS_LOOPBACK_DIAGNOSTIC.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/ik_branch_remediation/BRANCH_AUDIT.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/ik_branch_remediation/planner_cli_example/target_ik_candidate.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/ik_branch_remediation/planner_cli_verified/target_ik_candidate.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/ik_branch_remediation/planner_cli_verified/touch_generation_report.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/ik_branch_remediation/planner_cli_verified/touch_ik_candidates.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/ik_branch_remediation/planner_continuity_final/target_ik_candidate.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/ik_branch_remediation/planner_continuity_final/touch_generation_report.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/ik_branch_remediation/planner_continuity_final/touch_ik_candidates.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/plans/current_camera_1227/CURRENT_ATTEMPT_RESULT.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/plans/current_camera_1227/target_ik_candidate.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/plans/current_camera_1227/touch_generation_report.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/plans/current_camera_1227/touch_ik_candidates.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/plans/current_camera_1227/touch_trajectory_CANDIDATE.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_202322_842431_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_202322_842431_status/console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_202322_842431_status/exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_202322_842431_status/invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_205952_465451_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_205952_465451_status/console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_205952_465451_status/exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_205952_465451_status/invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_210848_348218_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_210848_348218_status/console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_210848_348218_status/exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_210848_348218_status/invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_211513_508231_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_211513_508231_status/console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_211513_508231_status/exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_211513_508231_status/invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_211826_223959_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_211826_223959_status/console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_211826_223959_status/exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_211826_223959_status/invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_212731_065134_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_212731_065134_status/console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_212731_065134_status/exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_212731_065134_status/invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_213154_994855_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_213154_994855_status/console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_213154_994855_status/exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/runs/20261021_213154_994855_status/invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/STOP_CONDITIONS_JA.md",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/TRAJECTORY_DURATION_COMPARISON.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_START_HERE/controllers/right_arm_20deg_preparation/collision_only.urdf",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_START_HERE/controllers/right_arm_20deg_preparation/g1_29dof.urdf",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_START_HERE/controllers/right_arm_20deg_preparation/geometry_manifest.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_START_HERE/ENVIRONMENT.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_START_HERE/evidence/fifteen_degree_reference/fifteen_degree_reference_result.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/evidence/fifteen_degree_reference/result_summary.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/evidence/fifteen_degree_reference/SHA256.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/evidence/one_degree_reference_retry/one_degree_reference_result.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/evidence/one_degree_reference_retry/SHA256.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/evidence/original_supported_vr/environment.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/evidence/original_supported_vr/requirements-installed.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/evidence/original_supported_vr/SHA256_MANIFEST.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/evidence/original_supported_vr/supported_vr_lowcmd.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/evidence/original_supported_vr/supported_vr_lowcmd_result.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/MANIFEST_SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_START_HERE/OFFLINE_VERIFICATION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_START_HERE/PROVENANCE.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/fifteen_degree_reference/arm_runtime.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/fifteen_degree_reference/check_tracking_math.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/fifteen_degree_reference/diagnostic_capture.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/fifteen_degree_reference/fifteen_degree_reference.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/fifteen_degree_reference/precise_timing.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/fifteen_degree_reference/shadow_motion_guard.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/fifteen_offline_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/fifteen_offline_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/fifteen_offline_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/one_degree_reference_retry/arm_runtime.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/one_degree_reference_retry/check_reference_equivalence.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/one_degree_reference_retry/diagnostic_capture.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/one_degree_reference_retry/one_degree_reference.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/one_degree_reference_retry/precise_timing.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/one_degree_reference_retry/shadow_motion_guard.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/one_offline_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/one_offline_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/one_offline_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/right_arm_20deg_preparation/check_sweep.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/right_arm_20deg_preparation/collision_only.urdf",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/right_arm_20deg_preparation/coordinated_geometry.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/right_arm_20deg_preparation/g1_29dof.urdf",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/right_arm_20deg_preparation/geometry_manifest.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/tracking_math_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/tracking_math_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_144538_323018_offline/tracking_math_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_174802_192429_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_174802_192429_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_174802_192429_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_174802_192429_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_181734_104478_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_181734_104478_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_181734_104478_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_181734_104478_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_183316_378152_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_183316_378152_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_183316_378152_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_183316_378152_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185016_753527_release/release_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185016_753527_release/release_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185016_753527_release/release_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185016_753527_release/supported_vr_release_cdds.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185016_753527_release/supported_vr_release_result.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/one_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/one_degree_reference_retry/arm_runtime.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/one_degree_reference_retry/check_reference_equivalence.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/one_degree_reference_retry/diagnostic_capture.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/one_degree_reference_retry/one_degree_reference.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/one_degree_reference_retry/one_degree_reference_result.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/one_degree_reference_retry/precise_timing.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/one_degree_reference_retry/shadow_motion_guard.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/one_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/one_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/right_arm_20deg_preparation/check_sweep.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/right_arm_20deg_preparation/collision_only.urdf",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/right_arm_20deg_preparation/coordinated_geometry.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/right_arm_20deg_preparation/g1_29dof.urdf",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/right_arm_20deg_preparation/geometry_manifest.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185028_890232_one/supported_lowcmd_cdds.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185944_759161_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185944_759161_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185944_759161_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_185944_759161_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191044_974453_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191044_974453_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191044_974453_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191044_974453_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191551_327020_release/release_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191551_327020_release/release_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191551_327020_release/release_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191551_327020_release/supported_vr_release_cdds.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191551_327020_release/supported_vr_release_result.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/one_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/one_degree_reference_retry/arm_runtime.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/one_degree_reference_retry/check_reference_equivalence.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/one_degree_reference_retry/diagnostic_capture.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/one_degree_reference_retry/one_degree_reference.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/one_degree_reference_retry/one_degree_reference_result.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/one_degree_reference_retry/precise_timing.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/one_degree_reference_retry/shadow_motion_guard.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/one_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/one_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/right_arm_20deg_preparation/check_sweep.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/right_arm_20deg_preparation/collision_only.urdf",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/right_arm_20deg_preparation/coordinated_geometry.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/right_arm_20deg_preparation/g1_29dof.urdf",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/right_arm_20deg_preparation/geometry_manifest.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_191618_871680_one/supported_lowcmd_cdds.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_192347_604330_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_192347_604330_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_192347_604330_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_192347_604330_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_192647_850863_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_192647_850863_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_192647_850863_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_192647_850863_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_194020_370329_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_194020_370329_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_194020_370329_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_194020_370329_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195127_388345_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195127_388345_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195127_388345_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195127_388345_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195535_867719_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195535_867719_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195535_867719_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195535_867719_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195933_350558_release/release_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195933_350558_release/release_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195933_350558_release/release_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195933_350558_release/supported_vr_release_cdds.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_195933_350558_release/supported_vr_release_result.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_200542_271950_status/cdds_readonly.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_200542_271950_status/status_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_200542_271950_status/status_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_200542_271950_status/status_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_200647_367029_release/release_console.txt",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_200647_367029_release/release_exit.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_200647_367029_release/release_invocation.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_200647_367029_release/supported_vr_release_cdds.log",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "G1_START_HERE/runs/20261021_200647_367029_release/supported_vr_release_result.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/dropout_replay.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/fixtures/dual_camera/decision_00.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/fixtures/dual_camera/decision_01.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/fixtures/dual_camera/decision_02.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/fixtures/dual_camera/decision_03.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/fixtures/dual_camera/obs_00.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/fixtures/dual_camera/obs_01.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/fixtures/dual_camera/obs_02.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/fixtures/dual_camera/obs_03.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/fixtures/dual_camera/obs_04.json",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/cloud_preflight.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/dry_run_example.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/example_state.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/first_hold_cdds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/first_hold_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/profile.example.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/requirements-offline.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/requirements-sdk.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/second_hold_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/shadow_evaluation.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/supported_lowcmd_cdds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/supported_vr_lowcmd_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/timing_benchmark.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/timing_benchmark_dds.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/timing_benchmark_dds_20ms.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/timing_dds_load.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/WAIST_HOLD_REVIEW.md",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/XR_PROTOCOL_REFERENCE.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/LOCAL_PROVENANCE.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/normal_replay.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/prior_oct10/camera_handoff.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/prior_oct10/kinematics.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/prior_oct10/trajectory.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/prior_oct10/vision.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/reference/Button_Press/J1-gen/common/arm/backend_dds.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/reference/Button_Press/J1-gen/common/arm/commander.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/reference/Button_Press/J1-gen/common/arm/safety.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/reference/Teleop/vendor/g1-starter-kit/tools/replay_arm.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/SHA256_MANIFEST.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "g1_v0_verified/upstream/push_button/kinematics.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/upstream/push_button/real/arm_bridge.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/upstream/push_button/real/push_button.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/upstream/push_button/trajectory.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "g1_v0_verified/upstream/push_button/vision.py",
+    "reason": "copied run/telemetry/reference/third-party payload; local only"
+  },
+  {
+    "path": "multi_joint_replay/model/rev1_collision.urdf",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "multi_joint_replay/offline_plan.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "one_degree_reference_retry/one_degree_reference_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "one_degree_reference_retry/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_one_degree_approach/derived_metrics.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_one_degree_approach/outward_one_degree_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_one_degree_approach/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_separation_recovery/OFFLINE_VALIDATION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_separation_recovery/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/IMPORT_CORRECTION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/OFFLINE_VALIDATION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/diagnostic_summary.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/IMPORT_CORRECTION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/OFFLINE_VALIDATION.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "post_transition_state.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/adjusted_pose_options.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/adjusted_sweep_analysis.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/after_operator_release.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/after_operator_sequence_readonly.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/after_operator_sweep.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/after_outward_adjustment.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/baseline_cdds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/before_bounded_hold.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/bounded_direct_hold_result.dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/bounded_direct_hold_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/collision_only.urdf",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/coordinated_raise_result.dds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/coordinated_raise_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/coordinated_trial_sha256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/current_sweep_adjustment_analysis.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/debug_damping_readback.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/elbow_wrist_geometry_analysis.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/ENGAGEMENT_PROPOSAL_JA.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/g1_29dof.urdf",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/geometry_manifest.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/meeting_resume_release.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/meeting_resume_state.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/minimal_direct_release.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/minimal_direct_sweep.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/mode1_baseline_summary.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/one_degree_fresh_pose.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/one_degree_geometry.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/original_prerequisite_status.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/planned_motion.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/ready_status_latest.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/recover_ai_readback.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/recovery_verified_status.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/release_after_battery.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/resting_contact_departure.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/resting_contact_pose.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/roll_departure_start.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/roll_then_pitch_plan_geometry.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/shoulder_sweep_current.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/status_after_operator.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "right_arm_20deg_preparation/sweep_clearance.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "state_readonly_checkpoint.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "state_version_readonly.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "successful_supported_vr_local/damping_check_readonly.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "successful_supported_vr_local/environment.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "successful_supported_vr_local/ethernet63_before.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "successful_supported_vr_local/requirements-installed.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "successful_supported_vr_local/SHA256_MANIFEST.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "successful_supported_vr_local/START_STOP_JA.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "successful_supported_vr_local/START_STOP_JA.txt.before_direct_hold.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "successful_supported_vr_local/supported_vr_lowcmd_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "successful_supported_vr_local/supported_vr_release_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "successful_supported_vr_local/再現手順.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "supported_lowcmd_cdds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "supported_vr_release_cdds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "supported_vr_release_result.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "synchronized_cdds.log",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "timing_revision_tests.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "touch_step1_execution/derived_metrics.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "touch_step1_execution/result_summary.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "touch_step1_execution/SHA256.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "trial2_evidence/continuity_audit.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "trial2_evidence/manifest.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "trial2_evidence/post_trial_controller_readonly.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "trial2_evidence/reconstructed_packets.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "trial2_evidence/synchronized_baseline_summary.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "vision_ik/ik_solution.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "vision_ik/postboot_increment_candidate.json",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "waist_fsm_readonly.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "waist_hold_offline_tests.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  },
+  {
+    "path": "waist_state_readonly.txt",
+    "reason": "raw telemetry/calibration/plan/log/config data; local only"
+  }
+]

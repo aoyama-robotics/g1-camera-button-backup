@@ -1,0 +1,32 @@
+test_camera_pair_skew_holds (test_offline.GuardTests.test_camera_pair_skew_holds) ... ok
+test_depth_timestamp_skew_holds (test_offline.GuardTests.test_depth_timestamp_skew_holds) ... ok
+test_eight_action_limit (test_offline.GuardTests.test_eight_action_limit) ... ok
+test_future_timestamp_rejected (test_offline.GuardTests.test_future_timestamp_rejected) ... ok
+test_invalid_extrinsics_holds (test_offline.GuardTests.test_invalid_extrinsics_holds) ... ok
+test_missing_depth_holds_then_latches_stop (test_offline.GuardTests.test_missing_depth_holds_then_latches_stop) ... ok
+test_nonfinite_stamp_rejected (test_offline.GuardTests.test_nonfinite_stamp_rejected) ... ok
+test_real_oct10_schema_replays_without_sdk_or_sockets (test_offline.GuardTests.test_real_oct10_schema_replays_without_sdk_or_sockets) ... ok
+test_scan_after_localize_does_not_move (test_offline.GuardTests.test_scan_after_localize_does_not_move) ... ok
+test_stale_retract_rejected (test_offline.GuardTests.test_stale_retract_rejected) ... ok
+test_stale_rgb_holds (test_offline.GuardTests.test_stale_rgb_holds) ... ok
+test_wrong_image_hash_rejected (test_offline.GuardTests.test_wrong_image_hash_rejected) ... ok
+test_wrong_label_holds (test_offline.GuardTests.test_wrong_label_holds) ... ok
+test_collision_failure_propagates (test_offline.PlanningTests.test_collision_failure_propagates) ... ok
+test_existing_executor_rejects_preview (test_offline.PlanningTests.test_existing_executor_rejects_preview) ... ok
+test_ik_failure_propagates (test_offline.PlanningTests.test_ik_failure_propagates) ... ok
+test_joint_preview_checks_all_paths_and_returns_home (test_offline.PlanningTests.test_joint_preview_checks_all_paths_and_returns_home) ... ok
+test_nan_state_rejected (test_offline.PlanningTests.test_nan_state_rejected) ... ok
+test_not_stationary_rejected (test_offline.PlanningTests.test_not_stationary_rejected) ... ok
+test_state_age_rejected (test_offline.PlanningTests.test_state_age_rejected) ... ok
+test_unverified_calibration_rejected (test_offline.PlanningTests.test_unverified_calibration_rejected) ... ok
+test_llm_joint_values_rejected (test_offline.TargetApiTests.test_llm_joint_values_rejected) ... ok
+test_missing_depth_rejected (test_offline.TargetApiTests.test_missing_depth_rejected) ... ok
+test_new_api_localizes_recorded_depth (test_offline.TargetApiTests.test_new_api_localizes_recorded_depth) ... ok
+test_pose_time_skew_rejected (test_offline.TargetApiTests.test_pose_time_skew_rejected) ... ok
+test_side_camera_direct_target_rejected (test_offline.TargetApiTests.test_side_camera_direct_target_rejected) ... ok
+test_unknown_selection_rejected (test_offline.TargetApiTests.test_unknown_selection_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 0.219s
+
+OK

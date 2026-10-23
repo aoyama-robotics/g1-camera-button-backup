@@ -1,0 +1,22 @@
+absl-py==2.5.1
+click==8.5.0
+colorama==0.4.6
+cyclonedds==0.10.2
+etils==1.13.0
+fsspec==2026.9.0
+glfw==2.11.0
+importlib_resources==7.1.0
+markdown-it-py==4.2.0
+mdurl==0.1.2
+mujoco==3.16.0
+numpy==2.2.6
+opencv-python==5.0.0.93
+pillow==12.3.0
+Pygments==2.21.0
+PyOpenGL==3.1.10
+rich==15.0.0
+rich-click==1.9.9
+typing_extensions==4.16.0
+unitree_sdk2py @ https://github.com/unitreerobotics/unitree_sdk2_python/archive/refs/heads/master.zip
+websockets==16.1.1
+zipp==4.1.1

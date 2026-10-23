@@ -1,0 +1,45 @@
+test_default_dryrun_no_sdk_or_network (test_runtime.CliTests.test_default_dryrun_no_sdk_or_network) ... ok
+test_preview_schema_not_accepted (test_runtime.CliTests.test_preview_schema_not_accepted) ... ok
+test_template_profile_blocks_live (test_runtime.CliTests.test_template_profile_blocks_live) ... ok
+test_unreviewed_plan_rejected (test_runtime.CliTests.test_unreviewed_plan_rejected) ... ok
+test_arm_only_fields (test_runtime.ProtocolTests.test_arm_only_fields) ... ok
+test_bad_machine (test_runtime.ProtocolTests.test_bad_machine) ... ok
+test_contaminated_factory_rejected (test_runtime.ProtocolTests.test_contaminated_factory_rejected) ... ok
+test_disabled_arm (test_runtime.ProtocolTests.test_disabled_arm) ... ok
+test_joint_limit (test_runtime.ProtocolTests.test_joint_limit) ... ok
+test_leg_motion (test_runtime.ProtocolTests.test_leg_motion) ... ok
+test_missing_motor (test_runtime.ProtocolTests.test_missing_motor) ... ok
+test_nan (test_runtime.ProtocolTests.test_nan) ... ok
+test_no_lowcmd_profile (test_runtime.ProtocolTests.test_no_lowcmd_profile) ... ok
+test_stale (test_runtime.ProtocolTests.test_stale) ... ok
+test_tilt (test_runtime.ProtocolTests.test_tilt) ... ok
+test_unverified_overlay (test_runtime.ProtocolTests.test_unverified_overlay) ... ok
+test_weight (test_runtime.ProtocolTests.test_weight) ... ok
+test_duplicate_tick_does_not_refresh (test_runtime.ReceptionTests.test_duplicate_tick_does_not_refresh) ... ok
+test_tick_wrap (test_runtime.ReceptionTests.test_tick_wrap) ... ok
+test_loop_lateness_stops (test_runtime.SessionTests.test_loop_lateness_stops) ... ok
+test_measured_start_and_return (test_runtime.SessionTests.test_measured_start_and_return) ... ok
+test_mode_change_stops (test_runtime.SessionTests.test_mode_change_stops) ... ok
+test_no_catchup_burst (test_runtime.SessionTests.test_no_catchup_burst) ... ok
+test_nonarm_nudge_rejected (test_runtime.SessionTests.test_nonarm_nudge_rejected) ... ok
+test_operator_stop_no_return_motion (test_runtime.SessionTests.test_operator_stop_no_return_motion) ... ok
+test_speed_gate (test_runtime.SessionTests.test_speed_gate) ... ok
+test_stale_stops_and_release_zero (test_runtime.SessionTests.test_stale_stops_and_release_zero) ... ok
+test_step_gate (test_runtime.SessionTests.test_step_gate) ... ok
+test_three_degree_limit (test_runtime.SessionTests.test_three_degree_limit) ... ok
+test_write_failure_propagates (test_runtime.SessionTests.test_write_failure_propagates) ... ok
+test_wrong_mode_no_publisher (test_runtime.SessionTests.test_wrong_mode_no_publisher) ... ok
+test_explicit_publisher_crc_and_false_write (test_runtime.TransportWiringTests.test_explicit_publisher_crc_and_false_write) ... ok
+test_missing_publisher_rejects_write (test_runtime.TransportWiringTests.test_missing_publisher_rejects_write) ... ok
+test_readonly_has_no_arm_publisher (test_runtime.TransportWiringTests.test_readonly_has_no_arm_publisher) ... ok
+test_depth_hash_rejected (test_target_inputs.InputTests.test_depth_hash_rejected) ... ok
+test_fixture_to_input_contract (test_target_inputs.InputTests.test_fixture_to_input_contract) ... ok
+test_review_draft_not_automatically_approved (test_target_inputs.InputTests.test_review_draft_not_automatically_approved) ... ok
+test_sim_calibration_rejected (test_target_inputs.InputTests.test_sim_calibration_rejected) ... ok
+test_stale_state_rejected (test_target_inputs.InputTests.test_stale_state_rejected) ... ok
+test_wrong_clock_rejected (test_target_inputs.InputTests.test_wrong_clock_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 40 tests in 0.332s
+
+OK

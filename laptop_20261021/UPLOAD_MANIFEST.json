@@ -1,0 +1,1640 @@
+[
+  {
+    "path": "analyze_two_calibration_points.py",
+    "original_sha256": "c9d983c69639af90bc0171642e76c5c1a510d3a135ce756557f3e6b3622b06ec",
+    "archive_sha256": "c9d983c69639af90bc0171642e76c5c1a510d3a135ce756557f3e6b3622b06ec",
+    "bytes": 3423,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "analyze_two_calibration_points_rev1.py",
+    "original_sha256": "9a76f895cf506a7eabc3a58775ac0b061a1f4ab227e29baceabd6107ea071780",
+    "archive_sha256": "9a76f895cf506a7eabc3a58775ac0b061a1f4ab227e29baceabd6107ea071780",
+    "bytes": 3415,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "arm_capabilities_readonly.py",
+    "original_sha256": "04686b4c00d272899c60b3a85efa25c031ceef5083a7911fbf5fd8537bf68223",
+    "archive_sha256": "6b8d729019d47d1343e06cd6f604a522167d10e391868269e77e86117a230af6",
+    "bytes": 636,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "baseline_readonly.py",
+    "original_sha256": "e4a38e2825a473ca455e56f721a0915988cf1de1fe3a8e63f6285465c6ca58d9",
+    "archive_sha256": "13662184aa825e488ac082d142237e4b52f25722d2a6200cc0f33b789bf6b386",
+    "bytes": 4300,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "bottle_camera_discovery/cad_sources/official_camera_configs.py",
+    "original_sha256": "932a92f39522f2face38a0457006b3b0da3e5ae7084640487a719fc314a86830",
+    "archive_sha256": "932a92f39522f2face38a0457006b3b0da3e5ae7084640487a719fc314a86830",
+    "bytes": 8128,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "build_local_bias.py",
+    "original_sha256": "209f48ec3808341cbb82fed5a909c32a5fdfeccd55663429b1bb7ef9b541e4d8",
+    "archive_sha256": "209f48ec3808341cbb82fed5a909c32a5fdfeccd55663429b1bb7ef9b541e4d8",
+    "bytes": 2454,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "build_startup_package.py",
+    "original_sha256": "1010ef120183365810c3eacaf3f24f0d80446dda0786388f54580834c27e0b41",
+    "archive_sha256": "faceef46f77488088bd3e20d9f590a2b752987852c14c22621c8d7f726fbfb25",
+    "bytes": 3099,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "camera_reboot_videohub_readonly.py",
+    "original_sha256": "7984144107dc56111acb27a0416b084ad3fa35313aff49bfdd2bcc1f6dd235fc",
+    "archive_sha256": "14edde7863c653753d713700db484b67cba4956b07213c708853c3296d312bec",
+    "bytes": 1871,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "camera_videohub_readonly.py",
+    "original_sha256": "f4bede5ad84acb41ee3ca631671b60648d7d156fc495acdcb75b5b3e74a25f4c",
+    "archive_sha256": "029f1c22c16fc0572a7868e978c2485d530d24a3f51b094806e7d3de3d007ff5",
+    "bytes": 1832,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "capture_calibration_point2_readonly.py",
+    "original_sha256": "e18013d9d8b2196060f8f3b46263347b9e47be2eeb7f9b0da571d3bf273b130b",
+    "archive_sha256": "c14055d61c04d27b454b661d07cf6e8866cfb5339790ea11bb15364e1f735b49",
+    "bytes": 1344,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "capture_calibration_point_readonly.py",
+    "original_sha256": "254e5e333750f8704c689af75a14fe270fc17e7eb9085d234c1e88aa6b68c3a5",
+    "archive_sha256": "91db622bed54da596daa92be96aa8e7f4a12ac81cf82acf6dca4d900c4314727",
+    "bytes": 1342,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "capture_calibration_point_readonly_v2.py",
+    "original_sha256": "af68f8d736daf708015375fd68160ba27fe80ad823c74c8a6dd1c8b5be309d8b",
+    "archive_sha256": "a1c1d336cd4ba77415db0872cbceda725f54faad9dea82ebd989880ff5cb1437",
+    "bytes": 1456,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "capture_unobscured_states_readonly.py",
+    "original_sha256": "8d3ae4bc06d30cc38c4552a0873e7a7a01e75fcddf45ab61ea08d4bfe50e4233",
+    "archive_sha256": "947169ff999d5a39102ba029626754104cef98422b8e54626016dee89dd46156",
+    "bytes": 1468,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "contact_buffer_v3_readonly.py",
+    "original_sha256": "a03a2ce7286fc356115b907bcc6344a27794141b876e4322c848efaee68d20d6",
+    "archive_sha256": "74acc9f821ffed10a3306a9234028030935ce2b17f20d24bb02f7279f7af5d42",
+    "bytes": 2424,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "contact_diagnostic_ready.py",
+    "original_sha256": "5ad787c3c6f47734a904edcf8b7e6e3054151264e5786cc960a4b57b870df503",
+    "archive_sha256": "c82d02f6242ae185c95275bc999ba67c4d68bba3b081d60ac21df7d597b01353",
+    "bytes": 2020,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_afterrelease_executor/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_afterrelease_executor/check_tracking_math.py",
+    "original_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "archive_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "bytes": 1188,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_afterrelease_executor/continuous_touch.py",
+    "original_sha256": "58fc23dc0479d1a6aa39bfe24eac5e115db67aef8a3bc200430dc89c572f1759",
+    "archive_sha256": "184d3d7f11cc52568ae762c891715fa65759940a5775615860a78b1fbaea9c62",
+    "bytes": 14049,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_afterrelease_executor/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_afterrelease_executor/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_afterrelease_executor/REVIEW_JA.txt",
+    "original_sha256": "7519083e1671b8b0909a8472cef66938c3a3c7bc7e54a4ce79289ff34faa6c0f",
+    "archive_sha256": "510eb8d39ada6057bb54199b9d3f2db4db327c48706abbc552fdbc427ccabfc4",
+    "bytes": 462,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_afterrelease_executor/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_afterrelease_executor/validate_offline.py",
+    "original_sha256": "1363b59a6d04be5dad74358e360014d1a57d7fd7a3433112182fe901aeae8dbf",
+    "archive_sha256": "1363b59a6d04be5dad74358e360014d1a57d7fd7a3433112182fe901aeae8dbf",
+    "bytes": 2378,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_postreboot_executor/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_postreboot_executor/check_tracking_math.py",
+    "original_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "archive_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "bytes": 1188,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_postreboot_executor/continuous_touch.py",
+    "original_sha256": "96c2d5ab69b857ea556729f3fa7a5f1481d2eab58f9ae5bda98f6cb1f9c7c235",
+    "archive_sha256": "5df264f29e40c5a3cde905d9773bec62519e35d864f835dfdba0e69c26631598",
+    "bytes": 14047,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_postreboot_executor/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_postreboot_executor/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_postreboot_executor/REVIEW_JA.txt",
+    "original_sha256": "7519083e1671b8b0909a8472cef66938c3a3c7bc7e54a4ce79289ff34faa6c0f",
+    "archive_sha256": "510eb8d39ada6057bb54199b9d3f2db4db327c48706abbc552fdbc427ccabfc4",
+    "bytes": 462,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_postreboot_executor/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_postreboot_executor/validate_offline.py",
+    "original_sha256": "1363b59a6d04be5dad74358e360014d1a57d7fd7a3433112182fe901aeae8dbf",
+    "archive_sha256": "1363b59a6d04be5dad74358e360014d1a57d7fd7a3433112182fe901aeae8dbf",
+    "bytes": 2378,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/arm_runtime.py",
+    "original_sha256": "63f77bdf97d9383b0cbaab828a34ecd553864637347ed7b6daffc6bea0848c90",
+    "archive_sha256": "63f77bdf97d9383b0cbaab828a34ecd553864637347ed7b6daffc6bea0848c90",
+    "bytes": 13769,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/check_tracking_math.py",
+    "original_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "archive_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "bytes": 1188,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/continuous_touch.py",
+    "original_sha256": "5c3b26192da5047485a81f1334da8c733dc89f15e46814390a038c4d3b66f52c",
+    "archive_sha256": "fe6ef9c0a47055aae37a3ca590c31dfae68e6e95ac8cec424ad50594e7c872a3",
+    "bytes": 14008,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/history/pitch_only_before_roll10/arm_runtime.py",
+    "original_sha256": "77f4c06cf73a5c11e59c0045b2cd5e8e16716cccc078ae111ebc4ac23b86c197",
+    "archive_sha256": "77f4c06cf73a5c11e59c0045b2cd5e8e16716cccc078ae111ebc4ac23b86c197",
+    "bytes": 13755,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/history/pitch_only_before_roll10/shadow_motion_guard.py",
+    "original_sha256": "09b4d86cc254aa0949edad7d165138bbc4cad9bc49467891fea8df238896e409",
+    "archive_sha256": "09b4d86cc254aa0949edad7d165138bbc4cad9bc49467891fea8df238896e409",
+    "bytes": 2477,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/REVIEW_JA.txt",
+    "original_sha256": "7519083e1671b8b0909a8472cef66938c3a3c7bc7e54a4ce79289ff34faa6c0f",
+    "archive_sha256": "510eb8d39ada6057bb54199b9d3f2db4db327c48706abbc552fdbc427ccabfc4",
+    "bytes": 462,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/shadow_motion_guard.py",
+    "original_sha256": "b0272ff965e8f22d40df6d73e8a8fc30483ed257725c03e207f66f8042c45bdf",
+    "archive_sha256": "b0272ff965e8f22d40df6d73e8a8fc30483ed257725c03e207f66f8042c45bdf",
+    "bytes": 2492,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_suspended_pitch10_executor/validate_offline.py",
+    "original_sha256": "42f45717a1e219f9564e79e19944f4764a7040aadd23339a9b440be3088eb6fa",
+    "archive_sha256": "42f45717a1e219f9564e79e19944f4764a7040aadd23339a9b440be3088eb6fa",
+    "bytes": 2591,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_touch_executor/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_touch_executor/check_tracking_math.py",
+    "original_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "archive_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "bytes": 1188,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_touch_executor/continuous_touch.py",
+    "original_sha256": "b05c5e1b4f5d137cc36aa4d8655a468470e10d43f991b1379e449edcfc26fef3",
+    "archive_sha256": "8bd269f82d089edb36baedd4aa04760c881253200a180db80b556320f4a5538a",
+    "bytes": 14053,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_touch_executor/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_touch_executor/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_touch_executor/REVIEW_JA.txt",
+    "original_sha256": "5de5f9c0d4ca2311dc4de4b125cd2b63ca4a05d7dc281a2958d72fd5060a40da",
+    "archive_sha256": "5de5f9c0d4ca2311dc4de4b125cd2b63ca4a05d7dc281a2958d72fd5060a40da",
+    "bytes": 1872,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_touch_executor/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "continuous_touch_executor/validate_offline.py",
+    "original_sha256": "f84b144f67e67518e10c9f92850bf57f0e60276dd3fbd4bba1cfa4836bb81cf0",
+    "archive_sha256": "f84b144f67e67518e10c9f92850bf57f0e60276dd3fbd4bba1cfa4836bb81cf0",
+    "bytes": 2347,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "current_kanji_contact_readonly.py",
+    "original_sha256": "94f7dd7a5fab383f0fe0400395d5d68d41979cb0cce2aa9ea96d28cbc146b67b",
+    "archive_sha256": "e6564904555f7113f47f6763e185d1645941515de960544bf4d5c63d0443a5e8",
+    "bytes": 1942,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "diagnose_position_velocity_readonly.py",
+    "original_sha256": "459ce23594b9b1ef93f5d5e334b61c3a4e7bf304fffe9c0dcb6485df683af836",
+    "archive_sha256": "418e753629f9a68fbd645e2e5a03d1962a2141765e2e4d45aeb814075ee107cc",
+    "bytes": 1520,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "fifteen_degree_reference/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "fifteen_degree_reference/check_tracking_math.py",
+    "original_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "archive_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "bytes": 1188,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "fifteen_degree_reference/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "fifteen_degree_reference/fifteen_degree_reference.py",
+    "original_sha256": "3b3ea677f57c60a4d30489e02109727c9c6cc2142e1dfda901844bad928eb378",
+    "archive_sha256": "5745c6732ab73f005fc2b405b5386270e652c11bd6dc33004ab001ce3cb100a5",
+    "bytes": 12380,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "fifteen_degree_reference/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "fifteen_degree_reference/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "fit_latest_scene.py",
+    "original_sha256": "72c70694cce417e2ac8f02d0ae047f7e9989d828e148ad20893ef0457b1fb5a1",
+    "archive_sha256": "72c70694cce417e2ac8f02d0ae047f7e9989d828e148ad20893ef0457b1fb5a1",
+    "bytes": 5427,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/camera_preview.py",
+    "original_sha256": "b321118c37260f12705fd74ae1e7a240b30a6f13854ae31802a12e968f023a8b",
+    "archive_sha256": "e510af336793dc0f1a9406852dedf7282fa8e44ca47f308dbbc30ef2400ff989",
+    "bytes": 5134,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/capture_g1_local_once.py",
+    "original_sha256": "607b44925795b71b6cb7910a2a0740bcb8251931aa44d0662c717a73c33d4885",
+    "archive_sha256": "4e7dee0be916cfcc19e0a2ebe8b21c6d3ded2d3cc1c682c63f13be66165e400b",
+    "bytes": 2402,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/capture_photo_only.py",
+    "original_sha256": "3ddbbd95d5b2280f43ed675b536d349fe7e33af5ee784c82e0e061b6eeaaaf59",
+    "archive_sha256": "ebe575e9cd3a9fd61ec3898f5a37e86ac981d57f1854ce2bdd29e3fe82a1c3ba",
+    "bytes": 1912,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/capture_remote.py",
+    "original_sha256": "85e9199ebd4776a777760d0ae2633caba198fe025198b2fea2ca74ae3e2deb12",
+    "archive_sha256": "85e9199ebd4776a777760d0ae2633caba198fe025198b2fea2ca74ae3e2deb12",
+    "bytes": 1243,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/ik_branch_remediation/prepare_plan_before_branch_prior.py",
+    "original_sha256": "0ee40140fbf8d94d6375961d0a1328209699e0cf66192531aeb25aa3e267ff71",
+    "archive_sha256": "0ee40140fbf8d94d6375961d0a1328209699e0cf66192531aeb25aa3e267ff71",
+    "bytes": 7552,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/ik_branch_remediation/recover_offline.py",
+    "original_sha256": "e4428c4e43bd87ae4dc6f1735b098448e1928793c7fdd4c4447c9cd378b131c4",
+    "archive_sha256": "e4428c4e43bd87ae4dc6f1735b098448e1928793c7fdd4c4447c9cd378b131c4",
+    "bytes": 4395,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/IK_BRANCH_REVIEW_JA.txt",
+    "original_sha256": "bae301885a8c5b428eeb4b14be367a79a6b14664fe28d37dda283915265be28a",
+    "archive_sha256": "bae301885a8c5b428eeb4b14be367a79a6b14664fe28d37dda283915265be28a",
+    "bytes": 2803,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/prepare_plan.py",
+    "original_sha256": "56959262194f44a75fffc1e11a037eec9b2669a44b2545a2ab04e3158e45d067",
+    "archive_sha256": "56959262194f44a75fffc1e11a037eec9b2669a44b2545a2ab04e3158e45d067",
+    "bytes": 8868,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/README_JA.txt",
+    "original_sha256": "b47ddd1de1eb7e9e99766c88f14704f42aa5f95716d84195450b5b7209bc0a25",
+    "archive_sha256": "2373e8f57ddc4175bd8eb344ab66ce5cd10e1c4eef97c22596bb436994811e60",
+    "bytes": 4829,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/START.cmd",
+    "original_sha256": "8c2abdef8117f5955f05443c472964c733550282ba01d43e23ef378f2dbfb9d4",
+    "archive_sha256": "8c2abdef8117f5955f05443c472964c733550282ba01d43e23ef378f2dbfb9d4",
+    "bytes": 123,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/START.py",
+    "original_sha256": "2067f881012ceb1ee24461ec99043e8bde131e67c415048ea33259e6ff9738fa",
+    "archive_sha256": "b8b63065018eeb183f9139d96999c7421e2f331fa9798979e2a73e9ab70fe27c",
+    "bytes": 4935,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/start_camera_scoped.py",
+    "original_sha256": "ee87336e3d4d63dec22174fda7033538cc38f55a2dc58fbeec34a4a4a9975dbb",
+    "archive_sha256": "c5c056d100e34d5ac2ea1b0c3a043c797a7dc526963638cb26e4719a357ffbae",
+    "bytes": 1035,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/verify_pitch_offline.py",
+    "original_sha256": "2656d2540239d262264dfc7674b112e2f5eef7c26022fbf49e45c48e2e154d84",
+    "archive_sha256": "2656d2540239d262264dfc7674b112e2f5eef7c26022fbf49e45c48e2e154d84",
+    "bytes": 1671,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_BOTTLE_START_HERE/write_stop_inventory.py",
+    "original_sha256": "84ec86c27655bcc6851196a2d06192aa12f7df5d5c5228df651519a2a0faf3f9",
+    "archive_sha256": "84ec86c27655bcc6851196a2d06192aa12f7df5d5c5228df651519a2a0faf3f9",
+    "bytes": 13503,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/fifteen_degree_reference/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/fifteen_degree_reference/check_tracking_math.py",
+    "original_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "archive_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "bytes": 1188,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/fifteen_degree_reference/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/fifteen_degree_reference/fifteen_degree_reference.py",
+    "original_sha256": "3b3ea677f57c60a4d30489e02109727c9c6cc2142e1dfda901844bad928eb378",
+    "archive_sha256": "5745c6732ab73f005fc2b405b5386270e652c11bd6dc33004ab001ce3cb100a5",
+    "bytes": 12380,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/fifteen_degree_reference/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/fifteen_degree_reference/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/one_degree_reference_retry/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/one_degree_reference_retry/check_reference_equivalence.py",
+    "original_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "archive_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "bytes": 1420,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/one_degree_reference_retry/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/one_degree_reference_retry/one_degree_reference.py",
+    "original_sha256": "d2044434ef00e313ae8e02016b4cd2237dd7da16f4746a4573191032fbf8edb8",
+    "archive_sha256": "021144c529ac97b5b14a4740e9da7dc4cfd1bd17043217b3c949c6c37e134b8d",
+    "bytes": 12046,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/one_degree_reference_retry/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/one_degree_reference_retry/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/right_arm_20deg_preparation/check_sweep.py",
+    "original_sha256": "db3996f329292bb25be6c3098ce3fa601c35e282378cba9ebbb63a649bf65fb2",
+    "archive_sha256": "db3996f329292bb25be6c3098ce3fa601c35e282378cba9ebbb63a649bf65fb2",
+    "bytes": 2626,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/controllers/right_arm_20deg_preparation/coordinated_geometry.py",
+    "original_sha256": "79204b69ec03339a0f27ac1872a3d6469db31b24b74ae30246b8bcefb10fcc05",
+    "archive_sha256": "79204b69ec03339a0f27ac1872a3d6469db31b24b74ae30246b8bcefb10fcc05",
+    "bytes": 2581,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/README_JA.txt",
+    "original_sha256": "2830cc285a20d6a7077b1ac72afa00f0876445ea5af19d76a75de921199d8b25",
+    "archive_sha256": "b51371b95b9918855acfe5eb0013b4eef3b527e030ff3ca4284724b6e0bbf580",
+    "bytes": 7323,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/requirements-installed-current.txt",
+    "original_sha256": "2a87940bb837398b0c2d160aaedc970667c1290501296b357033297f8d3c7566",
+    "archive_sha256": "2a87940bb837398b0c2d160aaedc970667c1290501296b357033297f8d3c7566",
+    "bytes": 482,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/START.cmd",
+    "original_sha256": "419f69b0caba116d0e9f1e120fa52e775c4c55d4f591d0b0185c335841792df7",
+    "archive_sha256": "419f69b0caba116d0e9f1e120fa52e775c4c55d4f591d0b0185c335841792df7",
+    "bytes": 89,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/START.py",
+    "original_sha256": "fb36c003ae4b605cf44d0fc85ab1ba8667072e21d2d00b993c70c1dd1c11a279",
+    "archive_sha256": "fb36c003ae4b605cf44d0fc85ab1ba8667072e21d2d00b993c70c1dd1c11a279",
+    "bytes": 4382,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/tools/release_ai.py",
+    "original_sha256": "1375e25b6a86af91335c37a855d9c1c05dd1e70a8c57c3726f142e9a2299ac13",
+    "archive_sha256": "5824fc0bec67fafffc3f1aead2aa2bc5baefa8c9daf480c8d01f27f8a1e37ae8",
+    "bytes": 2088,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "G1_START_HERE/tools/status_readonly.py",
+    "original_sha256": "401768248e330312450d1724bd4b568eb7c94e9521f80198deb77edf34340589",
+    "archive_sha256": "10e8e57b4ef4ad6d77bc7d47e446d6ef4dafe95e7eece96f9df8bf3fcc101317",
+    "bytes": 2953,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/dual_camera_preview.py",
+    "original_sha256": "476f56ea3b0d3c3b8fd519f0934e3489cfd1772540dbac8912146d0df6b0eaef",
+    "archive_sha256": "476f56ea3b0d3c3b8fd519f0934e3489cfd1772540dbac8912146d0df6b0eaef",
+    "bytes": 6989,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/arm_runtime.py",
+    "original_sha256": "bf4b3c38421b291e326950deb34ca560bd6b7ade8d48f42c36565e3bd541e8c1",
+    "archive_sha256": "bf4b3c38421b291e326950deb34ca560bd6b7ade8d48f42c36565e3bd541e8c1",
+    "bytes": 13397,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/benchmark_timing.py",
+    "original_sha256": "73ca3e4a7f9a610105bc56733469f8aac73a6b08f367353e8f52c97ac2d12059",
+    "archive_sha256": "248e4e262e383fa7497f5881adabcca43e531b419a6b3e7c186f7689bff1f868",
+    "bytes": 3657,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/evaluate_shadow.py",
+    "original_sha256": "f4dfb7e56d9907a49eed9719067c6f6fbce993e691f16ea0da8c41f297a6e097",
+    "archive_sha256": "f4dfb7e56d9907a49eed9719067c6f6fbce993e691f16ea0da8c41f297a6e097",
+    "bytes": 1456,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/first_hold_test.py",
+    "original_sha256": "a3a5522ce2dbd29ae5c14c5592afd023966d459e7503345c669ce9a40cda6ee1",
+    "archive_sha256": "a174da15e46c57a840a14d245c63bf805dc5e820d3862d360f62d2cb69c8a4ea",
+    "bytes": 7322,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/g1_arm.py",
+    "original_sha256": "8082b3438a0b7e6956ea48a3687f0c8f15ba82b2c5738321977989d2b0edec2f",
+    "archive_sha256": "8082b3438a0b7e6956ea48a3687f0c8f15ba82b2c5738321977989d2b0edec2f",
+    "bytes": 9331,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/preflight.ps1",
+    "original_sha256": "a08055f3f3e8a901383601f0a4a3dd7af61fe1ed05e0de93bd6818856efc0294",
+    "archive_sha256": "a08055f3f3e8a901383601f0a4a3dd7af61fe1ed05e0de93bd6818856efc0294",
+    "bytes": 271,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/preflight.sh",
+    "original_sha256": "eb7dbcda49c222468ccbcb31133fdb7ae0dc8e479866fadb2eb111a9297eac84",
+    "archive_sha256": "eb7dbcda49c222468ccbcb31133fdb7ae0dc8e479866fadb2eb111a9297eac84",
+    "bytes": 135,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/prepare_inputs.py",
+    "original_sha256": "b9df26036722c6efe26ac4c9f878b9c6864da01261b2483e631432dc051c6207",
+    "archive_sha256": "b9df26036722c6efe26ac4c9f878b9c6864da01261b2483e631432dc051c6207",
+    "bytes": 3075,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/README.md",
+    "original_sha256": "67b172c0bd6537d7c32620f3a20b5fe665c2dc4f5d5b52b650a784073f0b7cb7",
+    "archive_sha256": "67b172c0bd6537d7c32620f3a20b5fe665c2dc4f5d5b52b650a784073f0b7cb7",
+    "bytes": 14884,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/shadow_motion_guard.py",
+    "original_sha256": "4b8a1dbb7de0431c923edbf2a74f053760cd2a1022b3a46c1fac000db1c70424",
+    "archive_sha256": "4b8a1dbb7de0431c923edbf2a74f053760cd2a1022b3a46c1fac000db1c70424",
+    "bytes": 2354,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/supported_vr_lowcmd.py",
+    "original_sha256": "b2a48781d2983c2eea22c3a8e67a7254b8b31337869af95254f52c73556d396b",
+    "archive_sha256": "c7bfac4693bbda85ec1d0b2ad855fa98070b168d8c9951cf42cef3042dc459b6",
+    "bytes": 9433,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/target_bridge.py",
+    "original_sha256": "0f96f4885358d7bcad07e1fc0ef280824c9b25a6a69d2414bce6cb4da6170a2b",
+    "archive_sha256": "0f96f4885358d7bcad07e1fc0ef280824c9b25a6a69d2414bce6cb4da6170a2b",
+    "bytes": 2123,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/test_results.txt",
+    "original_sha256": "3acdc15dd978ee678db183bd6529dc6ed1591a45887c8e89da22bb7247d58618",
+    "archive_sha256": "3acdc15dd978ee678db183bd6529dc6ed1591a45887c8e89da22bb7247d58618",
+    "bytes": 3608,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/tests/test_precise_timing.py",
+    "original_sha256": "543c6412b1fa5272dff7022b7c3d7871bf5dd3fbd29fe29e499465d16e2b432f",
+    "archive_sha256": "543c6412b1fa5272dff7022b7c3d7871bf5dd3fbd29fe29e499465d16e2b432f",
+    "bytes": 1273,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/tests/test_runtime.py",
+    "original_sha256": "60eebd01b2438128bdd73fc46614624f75c0afaed96f67258a83f29d6131c9ac",
+    "archive_sha256": "60eebd01b2438128bdd73fc46614624f75c0afaed96f67258a83f29d6131c9ac",
+    "bytes": 11075,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/tests/test_shadow_guard.py",
+    "original_sha256": "fcd0f692c1e5a9f0b77ff60d1ad5835f734849817010217a239d63c8aef45f57",
+    "archive_sha256": "fcd0f692c1e5a9f0b77ff60d1ad5835f734849817010217a239d63c8aef45f57",
+    "bytes": 2056,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/tests/test_supported_lowcmd.py",
+    "original_sha256": "d3d07dd93bd12ab64ab64292e032754910e3f088df87a46e1e5813b807e458c1",
+    "archive_sha256": "d3d07dd93bd12ab64ab64292e032754910e3f088df87a46e1e5813b807e458c1",
+    "bytes": 917,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/tests/test_target_inputs.py",
+    "original_sha256": "b8dd9bcd636d175950f60a96ac4bda0fe16a0e662dffe96bdc8fa9bec6313894",
+    "archive_sha256": "b8dd9bcd636d175950f60a96ac4bda0fe16a0e662dffe96bdc8fa9bec6313894",
+    "bytes": 2838,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/tests/test_waist_hold_candidate.py",
+    "original_sha256": "da2f69b90a92483beb81294c67bb636a1a1708ef6f044d9fdaab4654fbfc0d19",
+    "archive_sha256": "da2f69b90a92483beb81294c67bb636a1a1708ef6f044d9fdaab4654fbfc0d19",
+    "bytes": 6257,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/hardware_v2/waist_hold_candidate.py",
+    "original_sha256": "ea3e7f4a6e47dc1f81e8d28785b15fd9775c0ef008730251eb739ab2e09a8331",
+    "archive_sha256": "ea3e7f4a6e47dc1f81e8d28785b15fd9775c0ef008730251eb739ab2e09a8331",
+    "bytes": 7326,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/offline_adapter.py",
+    "original_sha256": "7cc68051abe89c3c2720fa13ec72d4d9366c3e29a46b66755dc8832dd4dbd4f9",
+    "archive_sha256": "7cc68051abe89c3c2720fa13ec72d4d9366c3e29a46b66755dc8832dd4dbd4f9",
+    "bytes": 9603,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/README.md",
+    "original_sha256": "423cdfaf3debe28e0a5af3521ae213c860bbb94c55a667f9f2eadc6549334460",
+    "archive_sha256": "423cdfaf3debe28e0a5af3521ae213c860bbb94c55a667f9f2eadc6549334460",
+    "bytes": 8671,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/test_results.txt",
+    "original_sha256": "598907b3d13a62f8f90ba46388681463e69072b41002876d6dffa7b47c319319",
+    "archive_sha256": "598907b3d13a62f8f90ba46388681463e69072b41002876d6dffa7b47c319319",
+    "bytes": 2796,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "g1_v0_verified/tests/test_offline.py",
+    "original_sha256": "3685e8539a30d2a5a66200ffea3b408aeb597c2bb1a440a46b338e10368d76fc",
+    "archive_sha256": "3685e8539a30d2a5a66200ffea3b408aeb597c2bb1a440a46b338e10368d76fc",
+    "bytes": 9552,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "independent_fk_depth_audit.py",
+    "original_sha256": "fea4c7a0757b2255d57e58220fe2ed0a96b6c9f514ae843fe945262bd7509690",
+    "archive_sha256": "fea4c7a0757b2255d57e58220fe2ed0a96b6c9f514ae843fe945262bd7509690",
+    "bytes": 2749,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "inspect_controller_readonly.py",
+    "original_sha256": "8ec6373fd5d7537a352af1fc86913f4d038b6537568d7f7656ca2876189a56b4",
+    "archive_sha256": "efa09e232d6b9cd5ff02188c33b35253c1c33325ae4cefd9c2edac5bc693a1ac",
+    "bytes": 1905,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "inspect_fsm_raw.py",
+    "original_sha256": "fd89ac0872b31180607444d312ac343fa0be6bc287120d53ddc79464dd202d8b",
+    "archive_sha256": "7b50f64325a4a42d78e5deeb4e6f4bac7d83d2203786a9806ef3a3da44f0a350",
+    "bytes": 1437,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "inspect_g1_step_ocp.py",
+    "original_sha256": "b05a762c2cc8a11054e1395cf59487e7196948a565735211dd297d89a3d5fc35",
+    "archive_sha256": "f99c700df1293e4acf809e3f7aa7f1d431ed7e8f72e1a976c5a37ff2fd863cbb",
+    "bytes": 2701,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "kanji_contact_buffer_readonly.py",
+    "original_sha256": "0204f4b4b7a70cbea30f0a299110320dd390962ed04b16d324d5f77de326fa66",
+    "archive_sha256": "6243ff0a338d58267b99fed3edf5b74fd469dc56c444f4fe3effeda84df9161a",
+    "bytes": 2412,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "local_camera_correction.py",
+    "original_sha256": "e25ef8c838b9c84c695aaf4ad667fc64f613b8b0263ba2e819cd3dfd905c9670",
+    "archive_sha256": "e25ef8c838b9c84c695aaf4ad667fc64f613b8b0263ba2e819cd3dfd905c9670",
+    "bytes": 1156,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "motion_baseline_buffer_readonly.py",
+    "original_sha256": "037835d00a7b2066380df7a617255b96775250f8a1c8c28dd80a32570b67843b",
+    "archive_sha256": "f9b4ed419ed1e12405a628a6c1e165bb9355445b1ab48300de33ce2097731dd2",
+    "bytes": 2414,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "multi_joint_replay/planner.py",
+    "original_sha256": "0de75119cc582e2a4dbcc51371585f4fc6ba65879e25ff010aa9c6e0409ccaa9",
+    "archive_sha256": "0de75119cc582e2a4dbcc51371585f4fc6ba65879e25ff010aa9c6e0409ccaa9",
+    "bytes": 4113,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "one_degree_reference_retry/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "one_degree_reference_retry/check_reference_equivalence.py",
+    "original_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "archive_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "bytes": 1420,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "one_degree_reference_retry/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "one_degree_reference_retry/one_degree_reference.py",
+    "original_sha256": "d2044434ef00e313ae8e02016b4cd2237dd7da16f4746a4573191032fbf8edb8",
+    "archive_sha256": "021144c529ac97b5b14a4740e9da7dc4cfd1bd17043217b3c949c6c37e134b8d",
+    "bytes": 12046,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "one_degree_reference_retry/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "one_degree_reference_retry/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_one_degree_approach/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_one_degree_approach/check_reference_equivalence.py",
+    "original_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "archive_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "bytes": 1420,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_one_degree_approach/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_one_degree_approach/one_degree_reference.py",
+    "original_sha256": "d2044434ef00e313ae8e02016b4cd2237dd7da16f4746a4573191032fbf8edb8",
+    "archive_sha256": "021144c529ac97b5b14a4740e9da7dc4cfd1bd17043217b3c949c6c37e134b8d",
+    "bytes": 12046,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_one_degree_approach/outward_one_degree.py",
+    "original_sha256": "f2f9bce5d31e109d064bd0b3d72d8a8eeac5c5da2a80dd2692971ea1511e2b71",
+    "archive_sha256": "9461c17347ebdbf2e6f9ea2d5547c1a2918176eb6111fb31a8fae413e615979f",
+    "bytes": 12044,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_one_degree_approach/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_one_degree_approach/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery/check_reference_equivalence.py",
+    "original_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "archive_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "bytes": 1420,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery/one_degree_reference.py",
+    "original_sha256": "d2044434ef00e313ae8e02016b4cd2237dd7da16f4746a4573191032fbf8edb8",
+    "archive_sha256": "021144c529ac97b5b14a4740e9da7dc4cfd1bd17043217b3c949c6c37e134b8d",
+    "bytes": 12046,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery/outward_one_degree.py",
+    "original_sha256": "f2f9bce5d31e109d064bd0b3d72d8a8eeac5c5da2a80dd2692971ea1511e2b71",
+    "archive_sha256": "9461c17347ebdbf2e6f9ea2d5547c1a2918176eb6111fb31a8fae413e615979f",
+    "bytes": 12044,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery/separation_recovery.py",
+    "original_sha256": "cc9e3335d8b5e831595669101a8bfcb33825709ae6bdf79e9816da2574f0b5d3",
+    "archive_sha256": "e1c03d1b3f95dc71088ed7add25c12d83aa8fb4f912023f3a4add1af3c1e3c33",
+    "bytes": 12171,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/check_reference_equivalence.py",
+    "original_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "archive_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "bytes": 1420,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/one_degree_reference.py",
+    "original_sha256": "d2044434ef00e313ae8e02016b4cd2237dd7da16f4746a4573191032fbf8edb8",
+    "archive_sha256": "021144c529ac97b5b14a4740e9da7dc4cfd1bd17043217b3c949c6c37e134b8d",
+    "bytes": 12046,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/outward_one_degree.py",
+    "original_sha256": "f2f9bce5d31e109d064bd0b3d72d8a8eeac5c5da2a80dd2692971ea1511e2b71",
+    "archive_sha256": "9461c17347ebdbf2e6f9ea2d5547c1a2918176eb6111fb31a8fae413e615979f",
+    "bytes": 12044,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/separation_recovery.py",
+    "original_sha256": "c5f5f1e8b9ff01c3e0d18cedfec17668c2f6e38dd12d242c2efb751f8c06bbd3",
+    "archive_sha256": "8a630aab8aa3aa680d460896a8b86fb1a52cf28098229aba2e7d45a293a2749e",
+    "bytes": 12188,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt2/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/check_reference_equivalence.py",
+    "original_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "archive_sha256": "c524c1ed19a8889a65dda829ce571c25857518ff89c24eede8813c75bfd6cd98",
+    "bytes": 1420,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/one_degree_reference.py",
+    "original_sha256": "d2044434ef00e313ae8e02016b4cd2237dd7da16f4746a4573191032fbf8edb8",
+    "archive_sha256": "021144c529ac97b5b14a4740e9da7dc4cfd1bd17043217b3c949c6c37e134b8d",
+    "bytes": 12046,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/outward_one_degree.py",
+    "original_sha256": "f2f9bce5d31e109d064bd0b3d72d8a8eeac5c5da2a80dd2692971ea1511e2b71",
+    "archive_sha256": "9461c17347ebdbf2e6f9ea2d5547c1a2918176eb6111fb31a8fae413e615979f",
+    "bytes": 12044,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/separation_recovery.py",
+    "original_sha256": "c5f5f1e8b9ff01c3e0d18cedfec17668c2f6e38dd12d242c2efb751f8c06bbd3",
+    "archive_sha256": "8a630aab8aa3aa680d460896a8b86fb1a52cf28098229aba2e7d45a293a2749e",
+    "bytes": 12188,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "outward_separation_recovery_attempt3/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "post_camera_restart_buffer_readonly.py",
+    "original_sha256": "eabc91c9ad4c3634c1f8f099cd8c71274085600eb1bdbc71b8c7fa4d9f58a385",
+    "archive_sha256": "34ae10f5aa9db0887b817e825d32f80773666d655eeb403769e90866d69a8c5e",
+    "bytes": 2418,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "project_contact_landmarks.py",
+    "original_sha256": "5230ac91d008b98a8ca2df2cd4a5fa26e743c00bb3b35133c06bcddedaac9358",
+    "archive_sha256": "5230ac91d008b98a8ca2df2cd4a5fa26e743c00bb3b35133c06bcddedaac9358",
+    "bytes": 2865,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "reboot_kanji_buffer_readonly.py",
+    "original_sha256": "eb1889043c7c384a0ea3ded64fec26d94d9523dc682dd1822dac52299fa6a990",
+    "archive_sha256": "709b532fab3f521308508b4d471c50548559e353b7833b34a55ede492b106d1e",
+    "bytes": 2411,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "reboot_rgb_pair_readonly.py",
+    "original_sha256": "7054944bc597a6c09ea86dd93e2ca0442480c8dbd0c5159374bec685254b5c8e",
+    "archive_sha256": "bde6cc7613e6abca878db9eb6e0e9fa627e4bdffd6146344f23a62da5c25a1f6",
+    "bytes": 1420,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "receive_state.py",
+    "original_sha256": "ac87d3896b9020503211a5edf4b6baf24c340bbf0e125e7a4d66e2ac31606560",
+    "archive_sha256": "6671016bbb6b2640bab73e02f55810c0e8d857e5643ad1e88f6a50bf21d366f8",
+    "bytes": 2834,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "reconstruct_trial2.py",
+    "original_sha256": "fd06ae69bc8a0c28615caf8d7d9b79de6514d4f37b1907e7ec4bf89e98faa990",
+    "archive_sha256": "fd06ae69bc8a0c28615caf8d7d9b79de6514d4f37b1907e7ec4bf89e98faa990",
+    "bytes": 1928,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "recovery0916_buffer_readonly.py",
+    "original_sha256": "6b6bcfda79e2b9e4646fbbffdf521bf3144c5bcc20b20d9693e4a28754e2e0a7",
+    "archive_sha256": "e44929e89cc3f27983acc860630309cf7bb458eda49953d43712ce42ae7feaba",
+    "bytes": 2411,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "release_ai_for_supported_vr.py",
+    "original_sha256": "1375e25b6a86af91335c37a855d9c1c05dd1e70a8c57c3726f142e9a2299ac13",
+    "archive_sha256": "5824fc0bec67fafffc3f1aead2aa2bc5baefa8c9daf480c8d01f27f8a1e37ae8",
+    "bytes": 2088,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "render_g1_cad.py",
+    "original_sha256": "9b5b4d2d2c6f1c27d89b7a9ac76f08ff11a73e08123c93ddffbb13c6f2f8e5d7",
+    "archive_sha256": "9b5b4d2d2c6f1c27d89b7a9ac76f08ff11a73e08123c93ddffbb13c6f2f8e5d7",
+    "bytes": 1516,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "resting_photo_buffer_readonly.py",
+    "original_sha256": "ec94565457284b00e17baa1f51e8cbe2336815f625525123c402e56068c8995c",
+    "archive_sha256": "9765838dbad88858ce95f758f42151086427726713092658c49de5241d8050dd",
+    "bytes": 2410,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/adjusted_pose_options.py",
+    "original_sha256": "244b7ceb9019362f38d221b3196b547d52724734bb1c5264f1edb7bf31d3a2a4",
+    "archive_sha256": "244b7ceb9019362f38d221b3196b547d52724734bb1c5264f1edb7bf31d3a2a4",
+    "bytes": 1168,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/analyze_internal_gap.py",
+    "original_sha256": "d186fe59473ee582aa9eab562b0cd00c3e53d254547caf239660a2f6dc42bcd3",
+    "archive_sha256": "d186fe59473ee582aa9eab562b0cd00c3e53d254547caf239660a2f6dc42bcd3",
+    "bytes": 807,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/analyze_sweep_adjustment.py",
+    "original_sha256": "09a3ad44e48e8bb4b549317e9e29048d5828763e1b046c78183da36b92b8b9e1",
+    "archive_sha256": "09a3ad44e48e8bb4b549317e9e29048d5828763e1b046c78183da36b92b8b9e1",
+    "bytes": 1140,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/arm_runtime.py",
+    "original_sha256": "bf4b3c38421b291e326950deb34ca560bd6b7ade8d48f42c36565e3bd541e8c1",
+    "archive_sha256": "bf4b3c38421b291e326950deb34ca560bd6b7ade8d48f42c36565e3bd541e8c1",
+    "bytes": 13397,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/assess_one_degree.py",
+    "original_sha256": "8a2212a63a52e8a0a42a03da9994ecbe54a4744e6a9481b6954f9d3073d48132",
+    "archive_sha256": "8a2212a63a52e8a0a42a03da9994ecbe54a4744e6a9481b6954f9d3073d48132",
+    "bytes": 617,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/bounded_direct_hold.py",
+    "original_sha256": "771414673886caeab591bb5e2d16e292442d5fddf9f4236f7498108351456e99",
+    "archive_sha256": "d10669218098f646838449cbbcfdd47410693a7a3b5ceba1deee382e4b11e484",
+    "bytes": 7799,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/build_coordinated.py",
+    "original_sha256": "21ee6e0d0665ef9ac740f932bedb322b56a203239ea17f2665231a7a3d255c6c",
+    "archive_sha256": "21ee6e0d0665ef9ac740f932bedb322b56a203239ea17f2665231a7a3d255c6c",
+    "bytes": 3607,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/build_diagnostic.py",
+    "original_sha256": "ce1af4fb36de880ed78b7b96832091af8769a8f24a144e271551f36d8d9bbec1",
+    "archive_sha256": "ce1af4fb36de880ed78b7b96832091af8769a8f24a144e271551f36d8d9bbec1",
+    "bytes": 2769,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/build_executor.py",
+    "original_sha256": "14c7310998e95eb4e4a78bcd08b7d65bdedac0c18a7a9f03841d7c761d8e1764",
+    "archive_sha256": "14c7310998e95eb4e4a78bcd08b7d65bdedac0c18a7a9f03841d7c761d8e1764",
+    "bytes": 2254,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/build_mode1_hold.py",
+    "original_sha256": "9d7da8eb81e205a16eae959feaecb1d7b7ab56fd6cf0089286a711baa774aab7",
+    "archive_sha256": "9d7da8eb81e205a16eae959feaecb1d7b7ab56fd6cf0089286a711baa774aab7",
+    "bytes": 3397,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/build_reference_retry.py",
+    "original_sha256": "8e55d49b9af3080cf48d936a8531b343602052219a408d9e86173bb559c654c0",
+    "archive_sha256": "8e55d49b9af3080cf48d936a8531b343602052219a408d9e86173bb559c654c0",
+    "bytes": 5455,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/check_adjusted_pose.py",
+    "original_sha256": "b260e332a1b68afd0cc9420adbe133b5f36019ab87fcea81cd8373137962bff8",
+    "archive_sha256": "b260e332a1b68afd0cc9420adbe133b5f36019ab87fcea81cd8373137962bff8",
+    "bytes": 675,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/check_after_operator.py",
+    "original_sha256": "8c846077544718c0bde7c39f078f67a9e613bc71a8b4d5a30bf6e6838fd0e006",
+    "archive_sha256": "8c846077544718c0bde7c39f078f67a9e613bc71a8b4d5a30bf6e6838fd0e006",
+    "bytes": 656,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/check_current_sweep.py",
+    "original_sha256": "55e894fd6ae9679d05c98640278c33624085ec550460bc9b668e4cf8d80e6e44",
+    "archive_sha256": "55e894fd6ae9679d05c98640278c33624085ec550460bc9b668e4cf8d80e6e44",
+    "bytes": 524,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/check_sweep.py",
+    "original_sha256": "db3996f329292bb25be6c3098ce3fa601c35e282378cba9ebbb63a649bf65fb2",
+    "archive_sha256": "db3996f329292bb25be6c3098ce3fa601c35e282378cba9ebbb63a649bf65fb2",
+    "bytes": 2626,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/coordinated_geometry.py",
+    "original_sha256": "79204b69ec03339a0f27ac1872a3d6469db31b24b74ae30246b8bcefb10fcc05",
+    "archive_sha256": "79204b69ec03339a0f27ac1872a3d6469db31b24b74ae30246b8bcefb10fcc05",
+    "bytes": 2581,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/coordinated_raise.py",
+    "original_sha256": "8d9012f83e5600f363ef6be1dfc10b74d7342b30db6e86635e8b1acba5e8532f",
+    "archive_sha256": "64f1f43aa7d06f46c650d3af677ed0a0dcf72eee90270897222a56155612407d",
+    "bytes": 9986,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/coordinated_raise_diagnostic.py",
+    "original_sha256": "57fd77d68c7203a03776c95da864996a7cb9c013301a007d64807f3e6afc5ad7",
+    "archive_sha256": "cec17ccc035ae613b8b143d4fe5a3c6429f9f3f6e9b94d3c089b5b80fb2e7856",
+    "bytes": 11477,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/copy_release_helper.py",
+    "original_sha256": "567f49cf8e8880b49961982a188c8167c93319f835240177b06438575e977d72",
+    "archive_sha256": "567f49cf8e8880b49961982a188c8167c93319f835240177b06438575e977d72",
+    "bytes": 376,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/engagement_proposal_offline.py",
+    "original_sha256": "d27fa2f807ef09bbe732d71fef8c22f2f73f873fff8aefb57af515670c592cfa",
+    "archive_sha256": "d27fa2f807ef09bbe732d71fef8c22f2f73f873fff8aefb57af515670c592cfa",
+    "bytes": 1074,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/fetch_geometry.py",
+    "original_sha256": "aa698b78105132ab058d65ee8d4240ac5f14f1f473feaf314eb02201a2df8c68",
+    "archive_sha256": "aa698b78105132ab058d65ee8d4240ac5f14f1f473feaf314eb02201a2df8c68",
+    "bytes": 1077,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/mode1_baseline_readonly.py",
+    "original_sha256": "a9f72cb9ed50b482bd1c134236d3426d937dc8e3ab4f33b2ba73cc5da47b4865",
+    "archive_sha256": "7565ae9e612e67f7cc2250a056333574d7115f184e0b88d84e23532bcb79491e",
+    "bytes": 4542,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/mode1_gap_detail.py",
+    "original_sha256": "1b2a3ff5a1d84d24760118978f9976ac6f4f46a22918e5eaa8a6fe9693deaca5",
+    "archive_sha256": "1b2a3ff5a1d84d24760118978f9976ac6f4f46a22918e5eaa8a6fe9693deaca5",
+    "bytes": 262,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/mode1_hold_diagnostic.py",
+    "original_sha256": "d456d7e11fa3d88d8d32304bca5c99584b96094d9cfa1239199047f27f16b729",
+    "archive_sha256": "50e99cb4a6397372f971760f60881e9bdac912bf4d16c783f16ab54f93fcf231",
+    "bytes": 9654,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/original_prerequisite_readonly.py",
+    "original_sha256": "64ed457330303c82a364af0b9a1249ee715e0f1d6be21c619d7fd82178b740e5",
+    "archive_sha256": "a50a2a387f23c7e9290a3f7e2d571bb6b017348df5583a88ff6c634cd4ac8924",
+    "bytes": 2955,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/plan_roll_departure.py",
+    "original_sha256": "379da1efdab55f3e7517b5aec6cd2e080481a8bd21f3e8c654722c2f31f91003",
+    "archive_sha256": "379da1efdab55f3e7517b5aec6cd2e080481a8bd21f3e8c654722c2f31f91003",
+    "bytes": 1273,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/prepare_fifteen_degree.py",
+    "original_sha256": "01690eba0bd20b690d25bbb86c61e8b3d78d91379d8638e468ab0071d834ac56",
+    "archive_sha256": "01690eba0bd20b690d25bbb86c61e8b3d78d91379d8638e468ab0071d834ac56",
+    "bytes": 980,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/prepare_plan.py",
+    "original_sha256": "e5ea14c62197fcedf2a963e8ee0992192796a9888f4db5a956e83efdfed75016",
+    "archive_sha256": "e5ea14c62197fcedf2a963e8ee0992192796a9888f4db5a956e83efdfed75016",
+    "bytes": 4305,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/recover_ai_readback.py",
+    "original_sha256": "621abd5ee925c084782cb9f8dfe6c27f0678411dd8d11dde91c13651bba16a6f",
+    "archive_sha256": "fed9339d92b18c90fe6c7d4f191d23f2d2eb83ad2d3b5d3c5e04e1e756af47f3",
+    "bytes": 3662,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/release_ai_preparation.py",
+    "original_sha256": "c488e36d909eafd79bf4938f051e3d1b2ba534bb8f61b7da1121fd4e7750e2d1",
+    "archive_sha256": "443a3add9142c673c9e933fda221ca5c4fa3d191853512a212e86365366c18a7",
+    "bytes": 2139,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/resting_contact_departure.py",
+    "original_sha256": "dd6b6c154b25fdf7ac97ff75e9f57802cea0c2a9fa803a839965fb31f5c5832e",
+    "archive_sha256": "dd6b6c154b25fdf7ac97ff75e9f57802cea0c2a9fa803a839965fb31f5c5832e",
+    "bytes": 1040,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/right_arm_20deg.py",
+    "original_sha256": "db5e14124d07a9b6b282374fbdce31c0278852a33adcf2a10ef8c2fdea4492c3",
+    "archive_sha256": "205f60bb2f9141a64a2761d089aa885e37224c63093e26e9140b19bd3ab515cc",
+    "bytes": 10377,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/shadow_motion_guard.py",
+    "original_sha256": "4b8a1dbb7de0431c923edbf2a74f053760cd2a1022b3a46c1fac000db1c70424",
+    "archive_sha256": "4b8a1dbb7de0431c923edbf2a74f053760cd2a1022b3a46c1fac000db1c70424",
+    "bytes": 2354,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/status_fresh_readonly.py",
+    "original_sha256": "401768248e330312450d1724bd4b568eb7c94e9521f80198deb77edf34340589",
+    "archive_sha256": "10e8e57b4ef4ad6d77bc7d47e446d6ef4dafe95e7eece96f9df8bf3fcc101317",
+    "bytes": 2953,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "right_arm_20deg_preparation/test_diagnostic_capture.py",
+    "original_sha256": "b582d5a286aeaa02f5d1a28777b6ce3a4ce795e095a40c1756817e29ed446ddb",
+    "archive_sha256": "b582d5a286aeaa02f5d1a28777b6ce3a4ce795e095a40c1756817e29ed446ddb",
+    "bytes": 1121,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "scene_refresh1724_buffer_readonly.py",
+    "original_sha256": "3c9afd370acdaefb287ba2da558aa434e33cd0b866aa97a40e646ed53e44a3b7",
+    "archive_sha256": "054aaab7b89adc91fbdf40a4954cbf20a43dfed8fc8d86deaa92811330bc11c7",
+    "bytes": 2416,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "separation_recovery_gate.py",
+    "original_sha256": "61ce6cf58b1dfd8ab4eca414a085d1cd33857a1a69e76a2cb0232f8e669f78eb",
+    "archive_sha256": "61ce6cf58b1dfd8ab4eca414a085d1cd33857a1a69e76a2cb0232f8e669f78eb",
+    "bytes": 4558,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "successful_supported_vr_local/arm_runtime.py",
+    "original_sha256": "bf4b3c38421b291e326950deb34ca560bd6b7ade8d48f42c36565e3bd541e8c1",
+    "archive_sha256": "bf4b3c38421b291e326950deb34ca560bd6b7ade8d48f42c36565e3bd541e8c1",
+    "bytes": 13397,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "successful_supported_vr_local/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "successful_supported_vr_local/receive_state.py",
+    "original_sha256": "ac87d3896b9020503211a5edf4b6baf24c340bbf0e125e7a4d66e2ac31606560",
+    "archive_sha256": "6671016bbb6b2640bab73e02f55810c0e8d857e5643ad1e88f6a50bf21d366f8",
+    "bytes": 2834,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "successful_supported_vr_local/release_ai_for_supported_vr.py",
+    "original_sha256": "1375e25b6a86af91335c37a855d9c1c05dd1e70a8c57c3726f142e9a2299ac13",
+    "archive_sha256": "5824fc0bec67fafffc3f1aead2aa2bc5baefa8c9daf480c8d01f27f8a1e37ae8",
+    "bytes": 2088,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "successful_supported_vr_local/shadow_motion_guard.py",
+    "original_sha256": "4b8a1dbb7de0431c923edbf2a74f053760cd2a1022b3a46c1fac000db1c70424",
+    "archive_sha256": "4b8a1dbb7de0431c923edbf2a74f053760cd2a1022b3a46c1fac000db1c70424",
+    "bytes": 2354,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "successful_supported_vr_local/supported_vr_lowcmd.py",
+    "original_sha256": "b2a48781d2983c2eea22c3a8e67a7254b8b31337869af95254f52c73556d396b",
+    "archive_sha256": "c7bfac4693bbda85ec1d0b2ad855fa98070b168d8c9951cf42cef3042dc459b6",
+    "bytes": 9433,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "successful_supported_vr_local/VR_SOURCE_replay_arm.py",
+    "original_sha256": "8249b25b236fecfe539d7b1ea1287ebb5029914cdbe98640b5f8e4319236d1ce",
+    "archive_sha256": "6a0fbc2f998e1b16205e74157ea76e03e446f9cca82177f93143787d5a5f592f",
+    "bytes": 41093,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "synchronized_hold_baseline.py",
+    "original_sha256": "eb141fee06929be30d2b5c02ad10f8693bf5075efb697c3f8f0ce3d54d74c3fe",
+    "archive_sha256": "ebf3c27ad0f2182ebf27b49979db0daca6594347cbe4ef45c6705e21b693f29d",
+    "bytes": 2905,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "touch_step1_execution/arm_runtime.py",
+    "original_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "archive_sha256": "1e9e6eb602578faa22cd1560c1339a292e990dbbc49edb76546920a6a0cbc661",
+    "bytes": 13734,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "touch_step1_execution/check_tracking_math.py",
+    "original_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "archive_sha256": "2d26b36a51524c9c651708a5e9f0b34e418eb9c896f80f1940df067cc0dd281b",
+    "bytes": 1188,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "touch_step1_execution/diagnostic_capture.py",
+    "original_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "archive_sha256": "c6a7ab4689e5b679ea6e5e66ec9c1ac2115dad327bf58a776a42cfcd815fd6b7",
+    "bytes": 1089,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "touch_step1_execution/diagnostic_provenance_NEXT_ONLY.py",
+    "original_sha256": "0fb33a2831b881006353e3a75fb16f78a2ead5d20fc0e80cc43b124298a9ed7f",
+    "archive_sha256": "80eecccd8fb9504a890acc88a51e0bac2dc929a8ebce66beec235421479fb83a",
+    "bytes": 13255,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "touch_step1_execution/fifteen_degree_reference.py",
+    "original_sha256": "3b3ea677f57c60a4d30489e02109727c9c6cc2142e1dfda901844bad928eb378",
+    "archive_sha256": "5745c6732ab73f005fc2b405b5386270e652c11bd6dc33004ab001ce3cb100a5",
+    "bytes": 12380,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "touch_step1_execution/precise_timing.py",
+    "original_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "archive_sha256": "8a66f3fa2317862014ce69f83409015541d31f51db24540395d311f36332b901",
+    "bytes": 2026,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "touch_step1_execution/shadow_motion_guard.py",
+    "original_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "archive_sha256": "98bc8a808bcf5f5c11ddcd7aaae7d103fc5ff7dd06272894d9fb17a20e706627",
+    "bytes": 2461,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "touch_step1_execution/touch_step1.py",
+    "original_sha256": "977ca4e3ceaa3ece7272e79132584044a051d6246aace097aaa2be53497c671c",
+    "archive_sha256": "30fd0b1a979ef427b131968244fe22fa9e1ee8c362730ce4c6347ea9f325617e",
+    "bytes": 12795,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "verify_startup_package.py",
+    "original_sha256": "1d0c303b44b70639bf66acf4b8ce1331bd11f9e9c93080c5e08c7640cc135a3f",
+    "archive_sha256": "1d0c303b44b70639bf66acf4b8ce1331bd11f9e9c93080c5e08c7640cc135a3f",
+    "bytes": 3871,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "vision_ik/generate_after_release_touch.py",
+    "original_sha256": "77590ec9d6784f699391ea2e0f8568656ebc6d91f59b772ca27f7a1b0c35a39a",
+    "archive_sha256": "77590ec9d6784f699391ea2e0f8568656ebc6d91f59b772ca27f7a1b0c35a39a",
+    "bytes": 5678,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "vision_ik/generate_postreboot_touch.py",
+    "original_sha256": "3936fb310c814751eb8a334352b0d170610762068836991ad9d4597fe6b16407",
+    "archive_sha256": "3936fb310c814751eb8a334352b0d170610762068836991ad9d4597fe6b16407",
+    "bytes": 5702,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "vision_ik/generate_touch_candidate.py",
+    "original_sha256": "03e97d6d8b5cc8b28e4c6110b81233192084cfe6079ed613bb4bd9e1410b5cd6",
+    "archive_sha256": "03e97d6d8b5cc8b28e4c6110b81233192084cfe6079ed613bb4bd9e1410b5cd6",
+    "bytes": 5335,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "vision_ik/refine_position_only.py",
+    "original_sha256": "7374b1051527ca06be1dd04f855a47c54121506d59df822a9ba9f1ffcac58157",
+    "archive_sha256": "7374b1051527ca06be1dd04f855a47c54121506d59df822a9ba9f1ffcac58157",
+    "bytes": 3622,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  },
+  {
+    "path": "vision_ik/torso_ik.py",
+    "original_sha256": "82744b9005a9fecb98b28c8fbbdd13d29e8fb8f084f1734d13ce0926bc0741f7",
+    "archive_sha256": "82744b9005a9fecb98b28c8fbbdd13d29e8fb8f084f1734d13ce0926bc0741f7",
+    "bytes": 2551,
+    "transformation": "UTF-8; local user/workspace/private IP/robot login redacted where present"
+  }
+]

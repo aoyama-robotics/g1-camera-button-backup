@@ -1,0 +1,12 @@
+"""Fit a single-contact local effective torso translation, and cross-check old pairs."""
+import json,numpy as np
+from pathlib import Path
+ROOT=Path(__file__).resolve().parent
+exec((ROOT/'analyze_two_calibration_points_rev1.py').read_text().split('records=[]')[0])
+p=ROOT/'bottle_camera_discovery';c=json.loads((p/'contact_diagnostic_20261021/short_contact_analysis.json').read_text());q=np.array(c['q_median']);P=fk(q);T=np.linalg.inv(P['torso_link']);finger=(T@P['right_wrist_yaw_link']@np.r_[.1733,.0283,.0067,1])[:3]
+obs=json.loads((p/'contact_diagnostic_20261021/independent_fk_and_hand_depth.json').read_text())['observed_surface_samples']['middle_tip'];opt=np.array(obs['optical_m']);C=tr([.0576235,.01753,.42987],[0,.8307767239493009,0]);nominal=(C@np.r_[Ropt@opt,1])[:3];delta=finger-nominal
+old=json.loads((p/'model_coordinate_diagnosis.json').read_text())['torso_points'];rows=[]
+for n,cam,f in [('synchronized_contact',nominal,finger)]+[(str(x['point']),np.array(x['camera_torso_m']),np.array(x['finger_torso_m'])) for x in old]:
+ rows.append({'sample':n,'used_in_fit':n=='synchronized_contact','error_before_mm':float(np.linalg.norm(cam-f)*1000),'error_after_mm':float(np.linalg.norm(cam+delta-f)*1000),'residual_after_xyz_mm':((cam+delta-f)*1000).tolist()})
+cfg={'enabled':False,'mode':'local_effective_translation','frame':'torso','translation_torso_m':delta.tolist(),'reference_camera_optical_m':opt.tolist(),'reference_nominal_torso_m':nominal.tolist(),'reference_fk_tip_torso_m':finger.tolist(),'reference_pixel':obs['pixel'],'scope':'Near the one demonstrated contact only; no experimentally established validity radius. No extrapolation claim.','sources':'Synchronized contact q and manually selected visible glove tip depth; combines camera/tool/correspondence bias','uncertainty':'Glove tip correspondence not marked; depth patch p10-p90 about11mm; absolute accuracy and full extrinsics unvalidated','old_pairs_used_in_fit':False,'new_target_bird_not_yet_localized':True,'no_new_stop_logic':True}
+(p/'local_correction_config.json').write_text(json.dumps(cfg,indent=2));(p/'local_correction_evaluation.json').write_text(json.dumps({'correction_m':delta.tolist(),'evaluations':rows,'leave_one_out':'Not identifiable with one high-confidence calibration point; older pairs are independent consistency checks, not equal-weight fit data.'},indent=2));print(json.dumps({'correction_mm':(delta*1000).tolist(),'evaluations':rows},indent=2))
